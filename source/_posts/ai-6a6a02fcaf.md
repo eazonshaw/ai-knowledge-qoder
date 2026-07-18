@@ -1,6 +1,6 @@
 ---
 title: "从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂"
-date: 2026-07-18 11:43:23
+date: 2026-07-19 06:39:44
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "英伟达正在将下一代 AI 基础设施的竞争，从“谁拥有更快的 GPU”推向“谁能建成效率更高的 Token 工厂”。 之前，企业只需要数百到数千块加速卡组成的集群，但现在 AI 基础设施面对的任务已经不"
 source_url: "https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-17　|　采集：2026-07-18 11:43:23
+> 来源：InfoQ 中文　|　原发布：2026-07-17　|　采集：2026-07-19 06:39:44
 
 ## 正文
 

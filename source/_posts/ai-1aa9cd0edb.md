@@ -1,6 +1,6 @@
 ---
 title: "Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板"
-date: 2026-07-18 11:43:23
+date: 2026-07-19 06:39:44
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Stripe 推出了一个基准测试套件(https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations)，用于评估 AI 智能体"
 source_url: "https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-17　|　采集：2026-07-18 11:43:23
+> 来源：InfoQ 中文　|　原发布：2026-07-17　|　采集：2026-07-19 06:39:44
 
 ## 正文
 
