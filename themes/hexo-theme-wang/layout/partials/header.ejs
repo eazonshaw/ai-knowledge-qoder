@@ -3,7 +3,7 @@
         <ul>
             <% for (let key in theme.menu) { %>
                 <li>
-                    <a href="<%= theme.menu[key].split('||')[0].trim() %>" rel="noopener">
+                    <a href="<%= url_for(theme.menu[key].split('||')[0].trim()) %>" rel="noopener">
                         <% if (theme.menu[key].split('||')[1]) { %>
                             <img src="<%= url_for('images/menu_ico/') %><%= theme.menu[key].split('||')[1].trim() %>.svg" class="menu-icon" alt="<%= __(key) || key %>">
                         <% } %>
