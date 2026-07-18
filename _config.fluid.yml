@@ -1,0 +1,54 @@
+# Fluid 主题配置（覆盖项）
+# 完整配置参考：https://hexo.fluid-dev.com/docs/
+
+# 导航栏
+navbar:
+  blog_title: AI 每日新闻速递
+  ground_color: "#2f4154"
+  menu:
+    - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
+    - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
+    - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
+    - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
+
+# 首页顶部大图与标语
+index:
+  banner_img: /img/default.png
+  slogan:
+    enable: true
+    text: "每天自动汇总全网 AI 前沿资讯"
+
+# 文章页
+post:
+  banner_img: /img/default.png
+
+# 关于页
+about:
+  banner_img: /img/default.png
+
+# 归档页
+archive:
+  banner_img: /img/default.png
+
+# 分类页 / 标签页
+category:
+  banner_img: /img/default.png
+tag:
+  banner_img: /img/default.png
+
+# 本地搜索（依赖 hexo-generator-search 插件）
+search:
+  enable: true
+  path: /local-search.xml
+  # 搜索框占位提示
+  placeholder: 搜索 AI 新闻标题 / 关键词
+
+# 页脚
+footer:
+  content: '
+    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
+    <i class="iconfont icon-love"></i>
+    <a href="https://hexo.fluid-dev.com" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+    <div>由 RSS 抓取 + 大模型自动生成，仅作资讯聚合，版权归原作者所有</div>
+  '

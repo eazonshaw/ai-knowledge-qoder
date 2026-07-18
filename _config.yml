@@ -1,0 +1,100 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## 部署前请把 url 改成你的 GitHub Pages 地址（见 README）
+
+# Site
+title: AI 每日新闻速递
+subtitle: 每日自动汇总 InfoQ / 知乎 / Bilibili 等站点的 AI 前沿资讯
+description: 由 RSS 抓取 + 大模型智能总结自动生成的 AI 新闻聚合站点
+keywords: AI,人工智能,大模型,LLM,新闻,InfoQ,知乎,Bilibili
+author: AI News Bot
+language: zh-CN
+timezone: Asia/Shanghai
+
+# URL
+## GitHub Pages 项目页（仓库名 ai-knowledge-qoder）
+url: https://eazonshaw.github.io/ai-knowledge-qoder
+root: /ai-knowledge-qoder/
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: true
+  trailing_html: true
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing
+new_post_name: :title.md
+default_layout: post
+titlecase: false
+external_link:
+  enable: true
+  field: site
+  exclude:
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+syntax_highlighter: highlight.js
+highlight:
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+
+# Home page setting
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
+
+# Metadata elements
+meta_generator: true
+
+# Date / Time format
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+updated_option: 'mtime'
+
+# Pagination
+per_page: 10
+pagination_dir: page
+
+# Include / Exclude file(s)
+include:
+exclude:
+ignore:
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: fluid
+
+# 本地搜索（hexo-generator-search）
+search:
+  path: local-search.xml
+  field: post
+  content: true
+
+# Deployment
+## Docs: https://hexo.io/docs/one-command-deployment
+## 也可以使用 GitHub Actions 自动部署（推荐，见 .github/workflows）
+deploy:
+  type: git
+  repo: https://github.com/eazonshaw/ai-knowledge-qoder.git
+  branch: gh-pages

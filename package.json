@@ -1,0 +1,37 @@
+{
+  "name": "ai-news-hexo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "每日自动抓取 InfoQ / 知乎 / Bilibili 等站点最新 AI 新闻，经 LLM 总结后发布到 GitHub Pages 的 Hexo 站点",
+  "type": "commonjs",
+  "hexo": {
+    "version": "7.3.0"
+  },
+  "scripts": {
+    "fetch": "node tools/fetch-news.js",
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "server": "hexo server",
+    "deploy": "hexo deploy",
+    "daily": "node tools/fetch-news.js && hexo clean && hexo generate"
+  },
+  "dependencies": {
+    "@extractus/article-extractor": "^8.0.16",
+    "hexo": "^7.3.0",
+    "hexo-generator-archive": "^2.0.0",
+    "hexo-generator-category": "^2.0.0",
+    "hexo-generator-index": "^4.0.0",
+    "hexo-generator-search": "^2.4.3",
+    "hexo-generator-tag": "^2.0.0",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-marked": "^7.0.0",
+    "hexo-renderer-stylus": "^3.0.0",
+    "hexo-server": "^3.0.0",
+    "hexo-theme-fluid": "^1.9.8",
+    "rss-parser": "^3.13.0",
+    "turndown": "^7.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
