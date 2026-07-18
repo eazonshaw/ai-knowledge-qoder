@@ -83,12 +83,21 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cyberpunk2077
+theme: hexo-theme-wang
 
-# 本地搜索（hexo-generator-search）
+# 本地搜索（hexo-generator-searchdb，供 hexo-theme-wang 的搜索使用）
 search:
-  path: local-search.xml
+  path: search.xml
   field: post
+  content: true
+  format: html
+
+# RSS 订阅（hexo-generator-feed）
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
   content: true
 
 # Deployment

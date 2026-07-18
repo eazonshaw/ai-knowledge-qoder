@@ -1,0 +1,56 @@
+## hexo-theme-wang 主题配置（本站定制，图片路径位于本主题 source 目录下）
+
+## favicon
+favicon:
+  src: images/wang.ico
+
+## 额外注入 <head> 的内容（留空）
+head: ''
+
+## 头像配置
+avatar:
+  src: images/avatar.webp #头像路径
+  isround: true #是否为圆形
+
+## 导航栏菜单：用 || 隔开，前为路径，后为图标名（位于 source/images/menu_ico）
+## 菜单名走 i18n（languages/*.yml），故沿用英文 key 以自动翻译为中文
+menu:
+  Home: / ||home
+  Archives: /archives ||archives
+  Categories: /categories ||categories
+  Tags: /tags ||tags
+  About: /about ||about
+  RSS: /atom.xml ||rss                   ## 需要安装 hexo-generator-feed
+
+## 社交媒体链接：前为名称，后为图标名（位于 source/images/social_links）
+social_links:
+  Github: https://github.com/eazonshaw/ai-knowledge-qoder || github
+
+## 搜索（需安装 hexo-generator-searchdb）
+search:
+  enable: true # 是否启用搜索功能
+  path: /search.xml # 前导斜杠表示从网站根目录开始
+  field: post # 可选值: post | page | all
+  content: true # 是否搜索文章内容
+
+## 时间是否显示秒
+time:
+  show_seconds: true
+
+## 首页动态打字效果
+typed_text:
+  enable: true
+
+## Waline 评论（未启用）
+comments:
+  enable: false
+  serverURL: ''
+
+## 友链（留空）
+friend_links: []
+
+## 底部图片链接（留空）
+footer_links: []
+
+## 底部文字链接（留空）
+footer_links_text: []
