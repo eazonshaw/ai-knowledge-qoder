@@ -83,7 +83,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: cyberpunk2077
 
 # 本地搜索（hexo-generator-search）
 search:
