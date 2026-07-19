@@ -47,6 +47,13 @@ module.exports = {
       limit: 12
     },
     {
+      // OSChina 资讯（官方 RSS，即 https://www.oschina.net/tail/ 综合资讯的内容源）
+      name: 'OSChina 资讯',
+      url: 'https://www.oschina.net/news/rss',
+      filter: true,
+      limit: 15
+    },
+    {
       name: '量子位',
       url: `${RSSHUB}/qbitai/category/资讯`,
       filter: false,
