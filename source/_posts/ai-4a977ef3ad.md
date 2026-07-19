@@ -1,6 +1,6 @@
 ---
 title: "Version Controlled SQL Database Dolt Releases 2.0 with Automatic Storage Cleanup and Compression"
-date: 2026-07-19 12:31:25
+date: 2026-07-19 12:36:16
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "!(/ai-knowledge-qoder/imgs/12660f8c9635d2e2.jpg) DoltHub has recently released Dolt 2.0, a major upd"
 source_url: "https://www.infoq.com/news/2026/07/dolt-version-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-07-18T07:28:00.000Z　|　采集：2026-07-19 12:31:25
+> 来源：InfoQ (EN)　|　原发布：2026-07-18T07:28:00.000Z　|　采集：2026-07-19 12:36:16
 
 ## 正文
 

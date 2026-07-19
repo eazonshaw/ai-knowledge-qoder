@@ -1,6 +1,6 @@
 ---
 title: "边端AI不只缺算力：安谋科技重做CPU、NPU、VPU与AI操作系统"
-date: 2026-07-19 12:31:25
+date: 2026-07-19 12:36:16
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "7 月 18 日，WAIC 2026 期间，安谋科技在上海世博展览馆举行 AI 前瞻发布会。 与展馆中大量围绕超节点、万卡集群和云端大模型的讨论不同，这场发布会把重点放在了另一端：当 AI 进入嵌入式"
 source_url: "https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-19　|　采集：2026-07-19 12:31:25
+> 来源：InfoQ 中文　|　原发布：2026-07-19　|　采集：2026-07-19 12:36:16
 
 ## 正文
 
