@@ -17,6 +17,9 @@
  *   NEWS_HOURS       时间窗口（小时），默认 48
  *   MAX_ARTICLES     单次最多处理的文章数，默认 20
  *   FETCH_CONCURRENCY 正文抓取并发数，默认 4
+ *   DOWNLOAD_IMAGES  是否下载文章图片到本地（0 关闭），默认开启
+ *   IMG_CONCURRENCY  图片下载并发数，默认 4
+ *   MAX_IMG_BYTES    单张图片体积上限（字节），默认 5MB，超出则保留原始链接
  */
 
 const fs = require('fs');
@@ -29,6 +32,7 @@ const { sources, keywords } = require('../config/sources');
 
 const ROOT = path.resolve(__dirname, '..');
 const POSTS_DIR = path.join(ROOT, 'source', '_posts');
+const IMGS_DIR = path.join(ROOT, 'source', '_imgs');
 
 const LLM_API_KEY = process.env.LLM_API_KEY || '';
 const LLM_BASE_URL = (process.env.LLM_BASE_URL || 'https://api.deepseek.com').replace(/\/$/, '');
@@ -36,6 +40,13 @@ const LLM_MODEL = process.env.LLM_MODEL || 'deepseek-chat';
 const NEWS_HOURS = parseInt(process.env.NEWS_HOURS || '48', 10);
 const MAX_ARTICLES = parseInt(process.env.MAX_ARTICLES || '20', 10);
 const FETCH_CONCURRENCY = parseInt(process.env.FETCH_CONCURRENCY || '4', 10);
+const DOWNLOAD_IMAGES = process.env.DOWNLOAD_IMAGES !== '0';
+const IMG_CONCURRENCY = parseInt(process.env.IMG_CONCURRENCY || '4', 10);
+const MAX_IMG_BYTES = parseInt(process.env.MAX_IMG_BYTES || '5242880', 10); // 5MB
+
+// 站点根路径（从 _config.yml 读取，用于拼装本地图片的站内绝对路径）
+const SITE_ROOT = readSiteRoot();
+const IMG_PUBLIC_BASE = SITE_ROOT.replace(/\/$/, '') + '/_imgs';
 
 const UA =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
@@ -140,6 +151,122 @@ async function mapLimit(arr, limit, fn) {
   return ret;
 }
 
+/* ----------------------------- 图片本地化 ----------------------------- */
+
+// 从 _config.yml 读取 root（项目页部署时如 /ai-knowledge-qoder/）
+function readSiteRoot() {
+  try {
+    const cfg = fs.readFileSync(path.join(ROOT, '_config.yml'), 'utf8');
+    const m = cfg.match(/^root:\s*(.+?)\s*$/m);
+    if (m) {
+      let r = m[1].trim().replace(/^["']|["']$/g, '');
+      if (r) {
+        if (!r.startsWith('/')) r = '/' + r;
+        if (!r.endsWith('/')) r += '/';
+        return r;
+      }
+    }
+  } catch (_) {
+    /* ignore */
+  }
+  return '/';
+}
+
+const EXT_BY_MIME = {
+  'image/jpeg': 'jpg',
+  'image/jpg': 'jpg',
+  'image/png': 'png',
+  'image/gif': 'gif',
+  'image/webp': 'webp',
+  'image/svg+xml': 'svg',
+  'image/bmp': 'bmp',
+  'image/x-icon': 'ico',
+  'image/avif': 'avif'
+};
+
+function extFromUrl(u = '') {
+  try {
+    const p = new URL(u).pathname;
+    const m = p.match(/\.([a-zA-Z0-9]{2,5})(?:$|\?)/);
+    if (m) return m[1].toLowerCase();
+  } catch (_) {
+    /* ignore */
+  }
+  return '';
+}
+
+// 下载单张图片到 source/_imgs，返回站内绝对路径（含 root）；失败返回 null
+async function downloadImage(rawUrl, baseLink) {
+  let abs;
+  try {
+    abs = new URL(rawUrl, baseLink || undefined).href;
+  } catch (_) {
+    return null;
+  }
+  if (!/^https?:\/\//i.test(abs)) return null;
+
+  const hash = crypto.createHash('md5').update(abs).digest('hex').slice(0, 16);
+
+  // 已下载过（同一 hash 前缀）则直接复用，避免重复下载
+  try {
+    if (fs.existsSync(IMGS_DIR)) {
+      const existing = fs.readdirSync(IMGS_DIR).find((f) => f.startsWith(hash + '.'));
+      if (existing) return `${IMG_PUBLIC_BASE}/${existing}`;
+    }
+  } catch (_) {
+    /* ignore */
+  }
+
+  try {
+    const resp = await fetch(abs, {
+      headers: { 'user-agent': UA, referer: baseLink || abs, accept: 'image/*,*/*;q=0.8' },
+      signal: AbortSignal.timeout(20000)
+    });
+    if (!resp.ok) return null;
+    const ct = (resp.headers.get('content-type') || '').split(';')[0].trim().toLowerCase();
+    if (ct && !ct.startsWith('image/')) return null;
+    const buf = Buffer.from(await resp.arrayBuffer());
+    if (!buf.length || buf.length > MAX_IMG_BYTES) return null;
+    const ext = EXT_BY_MIME[ct] || extFromUrl(abs) || 'img';
+    if (!fs.existsSync(IMGS_DIR)) fs.mkdirSync(IMGS_DIR, { recursive: true });
+    const fname = `${hash}.${ext}`;
+    fs.writeFileSync(path.join(IMGS_DIR, fname), buf);
+    return `${IMG_PUBLIC_BASE}/${fname}`;
+  } catch (_) {
+    return null;
+  }
+}
+
+// 将正文 Markdown/HTML 中的远程图片下载到本地，并把引用改为本地路径
+async function localizeImages(md, baseLink) {
+  if (!DOWNLOAD_IMAGES || !md) return md;
+
+  const urls = new Set();
+  // Markdown 图片：![alt](url "title")
+  const mdImg = /!\[[^\]]*\]\(\s*<?([^)\s>]+)>?(?:\s+["'][^"']*["'])?\s*\)/g;
+  // HTML 图片：<img ... src="url">（被 turndown 保留的 figure 内）
+  const htmlImg = /<img\b[^>]*?\ssrc\s*=\s*["']([^"']+)["'][^>]*>/gi;
+  let m;
+  while ((m = mdImg.exec(md))) urls.add(m[1]);
+  while ((m = htmlImg.exec(md))) urls.add(m[1]);
+
+  const list = [...urls].filter((u) => u && !/^data:/i.test(u));
+  if (!list.length) return md;
+
+  const mapping = {};
+  await mapLimit(list, IMG_CONCURRENCY, async (u) => {
+    const local = await downloadImage(u, baseLink);
+    if (local) mapping[u] = local;
+  });
+
+  let out = md;
+  // 长链接优先替换，避免短链接为长链接子串时误伤
+  for (const orig of Object.keys(mapping).sort((a, b) => b.length - a.length)) {
+    out = out.split(orig).join(mapping[orig]);
+  }
+  return out;
+}
+
 /* ----------------------------- 抓取 RSS 列表 ----------------------------- */
 
 async function fetchSource(src) {
@@ -224,7 +351,8 @@ async function fetchArticleBody(item) {
     if (article && article.content) {
       const md = htmlToMarkdown(article.content);
       if (md.length >= 80) {
-        return { md, author: article.author || '', published: article.published || item.pubDate };
+        const localized = await localizeImages(md, item.link);
+        return { md: localized, author: article.author || '', published: article.published || item.pubDate };
       }
     }
   } catch (err) {
@@ -234,7 +362,10 @@ async function fetchArticleBody(item) {
   // 2) 回退：RSS 自带的全文 HTML（如机器之心等）
   if (item.rssHtml && stripHtml(item.rssHtml).length >= 80) {
     const md = htmlToMarkdown(item.rssHtml);
-    if (md.length >= 80) return { md, author: '', published: item.pubDate };
+    if (md.length >= 80) {
+      const localized = await localizeImages(md, item.link);
+      return { md: localized, author: '', published: item.pubDate };
+    }
   }
 
   // 3) 再回退：RSS 摘要

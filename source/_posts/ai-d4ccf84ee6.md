@@ -1,6 +1,6 @@
 ---
 title: "边端AI不只缺算力：安谋科技重做CPU、NPU、VPU与AI操作系统"
-date: 2026-07-19 12:08:09
+date: 2026-07-19 12:21:57
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "7 月 18 日，WAIC 2026 期间，安谋科技在上海世博展览馆举行 AI 前瞻发布会。 与展馆中大量围绕超节点、万卡集群和云端大模型的讨论不同，这场发布会把重点放在了另一端：当 AI 进入嵌入式"
 source_url: "https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-19　|　采集：2026-07-19 12:08:09
+> 来源：InfoQ 中文　|　原发布：2026-07-19　|　采集：2026-07-19 12:21:57
 
 ## 正文
 
@@ -20,7 +20,7 @@ source_url: "https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&ut
 
 发布会涉及四条技术线：面向嵌入式设备的“星辰”CPU 与 Arm Helium 指令集，面向边端推理的“周易”X3-Pro NPU 架构，面向机器视觉的“玲珑”VPU，以及安谋科技牵头发起的开源 AIOS 联盟。
 
-![](https://static001.geekbang.org/infoq/a3/a3737e7e4f42e0683c353b731f080920.png)
+![](/ai-knowledge-qoder/_imgs/fc3d28ac200c0b44.png)
 
 把这些内容放在一起看，安谋科技这次在 WAIC 上试图回答的是一个更具体的工程问题：在功耗、温度、内存带宽和软件生态都受到约束的情况下，如何让计算、视频和系统软件形成一套可以部署的本地 AI 基础设施。
 
@@ -36,7 +36,7 @@ source_url: "https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&ut
 
 安谋科技 CPU 产品总监朱晓鸣在现场将端侧计算划分为三类需求：始终在线的低功耗感知、由 CPU 承担的逻辑控制，以及相对复杂的 AI 计算。在这种架构中，CPU 仍然负责系统控制、实时任务和通用逻辑，向量计算单元和 NPU 则分别承接适合并行处理和矩阵计算的负载。其目标是让嵌入式设备在有限的功耗和算力下尽可能多的释放 AI 计算潜力。
 
-![](https://static001.geekbang.org/infoq/db/dbd989adfe4868222d2e6d40cf99563f.png)
+![](/ai-knowledge-qoder/_imgs/f29d01db8eb1ffc7.png)
 
 ## CPU 的变化：给传统嵌入式计算增加向量能力
 
@@ -72,7 +72,7 @@ source_url: "https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&ut
 
 统一软件层可以减少模型适配、算子开发和部署工具的重复投入；硬件层则可以根据场景调整计算单元、Cluster 数量、内存层次、数据精度和专用加速模块。安谋科技还提出在统一架构中兼容存算一体以及非冯·诺依曼计算方案，但目前披露的主要还是架构方向，尚没有公开具体产品的算力、功耗、制程和量产时间。
 
-![](https://static001.geekbang.org/infoq/99/9984969e441702906cc317f2d1090e8f.png)
+![](/ai-knowledge-qoder/_imgs/260f830d7dc4583c.png)
 
 从技术路线看，X3-Pro 反映出边端 NPU 设计评价标准正在发生变化。
 

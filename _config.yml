@@ -76,7 +76,9 @@ per_page: 10
 pagination_dir: page
 
 # Include / Exclude file(s)
+## _imgs 目录以下划线开头会被 Hexo 默认忽略，这里显式纳入以复制到 public
 include:
+  - "_imgs/**"
 exclude:
 ignore:
 
@@ -84,6 +86,11 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-wang
+
+# Markdown 渲染（hexo-renderer-marked）
+## 关闭 prependRoot：正文里的本地图片已写入含 root 的站内绝对路径，避免重复叠加前缀
+marked:
+  prependRoot: false
 
 # 本地搜索（hexo-generator-searchdb，供 hexo-theme-wang 的搜索使用）
 search:

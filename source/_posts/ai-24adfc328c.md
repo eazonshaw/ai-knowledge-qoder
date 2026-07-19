@@ -1,6 +1,6 @@
 ---
 title: "亚马逊云科技推出 Claude 应用网关：面向 Claude Code 与 Claude Desktop 的自托管控制平面"
-date: 2026-07-19 12:08:09
+date: 2026-07-19 12:21:57
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "亚马逊云科技近日发布适用于 AWS 的 Claude 应用网关(https://aws.amazon.com/blogs/machine-learning/introducing-claude-app"
 source_url: "https://www.infoq.cn/article/j59f7KU3djH4Ex4YhqxF?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-17　|　采集：2026-07-19 12:08:09
+> 来源：InfoQ 中文　|　原发布：2026-07-17　|　采集：2026-07-19 12:21:57
 
 ## 正文
 
@@ -33,7 +33,7 @@ source_url: "https://www.infoq.cn/article/j59f7KU3djH4Ex4YhqxF?utm_source=rss&ut
 -   成本限额：按组织、组或用户设置每日、每周和每月的限额，一旦超出即阻止后续请求。
     
 
-![](https://static001.geekbang.org/infoq/89/8904db142bc533afcc3d6b45b7dcf1d0.png)
+![](/ai-knowledge-qoder/_imgs/a7969a167fdea634.png)
 
 （来源：AWS 新闻[博客文章](https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/)）
 
