@@ -1,6 +1,6 @@
 ---
 title: "Java 近期新闻：值对象、WildFly 41、TornadoVM、LangChain4j、Oracle AI Agent Studio"
-date: 2026-07-25 06:54:02
+date: 2026-07-26 06:44:28
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "OpenJDK 在 Valhalla 项目(https://openjdk.org/projects/valhalla/)的推动下，JEP 401（值对象预览版(https://openjdk.org"
 source_url: "https://www.infoq.cn/article/SCpx11gzcAUXOFdkSEKC?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-24　|　采集：2026-07-25 06:54:02
+> 来源：InfoQ 中文　|　原发布：2026-07-24　|　采集：2026-07-26 06:44:28
 
 ## 正文
 

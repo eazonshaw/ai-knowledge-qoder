@@ -1,6 +1,6 @@
 ---
 title: "Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践｜AICon深圳"
-date: 2026-07-25 06:54:02
+date: 2026-07-26 06:44:28
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Agent 时代，哪些方向正在成为行业关键变量？50 + 实战案例揭晓答案！ 模型参数规模不断突破，推理成本持续下降，开源生态日益繁荣。当模型能力逐渐成为行业共识，一个新的问题开始浮现：当人人都能获得"
 source_url: "https://www.infoq.cn/article/QHoyhD3AbiXIjm0yPjao?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-24　|　采集：2026-07-25 06:54:02
+> 来源：InfoQ 中文　|　原发布：2026-07-24　|　采集：2026-07-26 06:44:28
 
 ## 正文
 

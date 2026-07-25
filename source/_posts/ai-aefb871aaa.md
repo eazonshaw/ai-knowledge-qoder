@@ -1,6 +1,6 @@
 ---
 title: "GKE 安全蓝图加入云厂商 AI 安全框架阵营"
-date: 2026-07-25 06:54:02
+date: 2026-07-26 06:44:28
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "谷歌云发布了一份新的安全蓝图，介绍企业应如何保护运行在 Google Kubernetes Engine（GKE） 上的人工智能工作负载。谷歌认为，AI 应用从原型阶段走向生产环境的速度，已经超过了传"
 source_url: "https://www.infoq.cn/article/DXKamMhJKJeV7CkeExzo?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-24　|　采集：2026-07-25 06:54:02
+> 来源：InfoQ 中文　|　原发布：2026-07-24　|　采集：2026-07-26 06:44:28
 
 ## 正文
 

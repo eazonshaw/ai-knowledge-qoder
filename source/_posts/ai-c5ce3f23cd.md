@@ -1,6 +1,6 @@
 ---
 title: "Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender"
-date: 2026-07-25 06:54:02
+date: 2026-07-26 06:44:28
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Airbus has selected French provider Scaleway as its sovereign cloud partner following a competitive "
 source_url: "https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-07-24T10:42:00.000Z　|　采集：2026-07-25 06:54:02
+> 来源：InfoQ (EN)　|　原发布：2026-07-24T10:42:00.000Z　|　采集：2026-07-26 06:44:28
 
 ## 正文
 

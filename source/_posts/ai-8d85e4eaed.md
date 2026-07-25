@@ -1,6 +1,6 @@
 ---
 title: "Article: The Self-Building Agent: A LangChain4j Experiment"
-date: 2026-07-25 06:54:02
+date: 2026-07-26 06:44:28
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Key Takeaways - We directed an LLM-backed code assistant to use the LangChain4j documentation and AP"
 source_url: "https://www.infoq.com/articles/self-building-agent-langchain4j/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-07-24T09:00:00.000Z　|　采集：2026-07-25 06:54:02
+> 来源：InfoQ (EN)　|　原发布：2026-07-24T09:00:00.000Z　|　采集：2026-07-26 06:44:28
 
 ## 正文
 

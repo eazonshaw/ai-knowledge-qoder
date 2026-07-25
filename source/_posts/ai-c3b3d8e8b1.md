@@ -1,6 +1,6 @@
 ---
 title: ":trophy: Wow v8.9.0 发布：荣获 KaiCode’26 优秀奖，可靠性全面进化"
-date: 2026-07-25 06:54:02
+date: 2026-07-26 06:44:28
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "Wow v8.9.0 正式发布。本次版本集中呈现了 Wow 在核心可靠性、事件存储、消息基础设施、BI / ClickHouse 与开发者体验上的阶段性演进。 :trophy: 荣获 KaiCode’"
 source_url: "https://www.oschina.net/news/478452/wow-8-9-0-released"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-07-24T07:19:37.000Z　|　采集：2026-07-25 06:54:02
+> 来源：OSChina 资讯　|　原发布：2026-07-24T07:19:37.000Z　|　采集：2026-07-26 06:44:28
 
 ## 正文
 

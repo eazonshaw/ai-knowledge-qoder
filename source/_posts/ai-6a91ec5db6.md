@@ -1,6 +1,6 @@
 ---
 title: "“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持"
-date: 2026-07-25 06:54:02
+date: 2026-07-26 06:44:28
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "今天，国际数学联盟（IMU）正式公布了 2026 年菲尔兹奖的获奖名单，四位青年数学家邓煜（Yu Deng）、约翰·帕登（John Pardon）、雅各布·齐默曼（Jacob Tsimerman）以及"
 source_url: "https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-24　|　采集：2026-07-25 06:54:02
+> 来源：InfoQ 中文　|　原发布：2026-07-24　|　采集：2026-07-26 06:44:28
 
 ## 正文
 
