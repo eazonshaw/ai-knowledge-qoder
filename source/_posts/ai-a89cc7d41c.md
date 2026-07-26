@@ -1,6 +1,6 @@
 ---
 title: "AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering"
-date: 2026-07-26 06:44:28
+date: 2026-07-27 06:51:45
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "A growing view among observability engineers holds that the reasoning ability of large language mode"
 source_url: "https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-07-25T09:00:00.000Z　|　采集：2026-07-26 06:44:28
+> 来源：InfoQ (EN)　|　原发布：2026-07-25T09:00:00.000Z　|　采集：2026-07-27 06:51:45
 
 ## 正文
 
