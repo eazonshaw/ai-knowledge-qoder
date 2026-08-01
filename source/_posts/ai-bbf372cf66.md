@@ -1,6 +1,6 @@
 ---
 title: "GitHub AI Agent 翻车：攻击者不用黑客技术，只写一句话就能窃取数据"
-date: 2026-08-01 06:52:20
+date: 2026-08-02 06:44:51
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "GitLost(https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repo"
 source_url: "https://www.infoq.cn/article/u4rDqep8zVWUJsqVoQ23?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-31　|　采集：2026-08-01 06:52:20
+> 来源：InfoQ 中文　|　原发布：2026-07-31　|　采集：2026-08-02 06:44:51
 
 ## 正文
 

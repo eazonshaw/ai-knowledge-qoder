@@ -1,6 +1,6 @@
 ---
 title: "Agent 形态一天一个样，Infra 到底该为谁而建？| 请回答 WAIC 2026"
-date: 2026-08-01 06:52:20
+date: 2026-08-02 06:44:51
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "过去一年，Agent 几乎成为大模型行业最密集的关键词。从工作流编排、低代码平台，到 Coding Agent、多 Agent 协作和能够长期自主运行的智能体，应用形态不断变化。但与市场期待的“Age"
 source_url: "https://www.infoq.cn/article/spxwy17ZcfM3BIctR4PL?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-31　|　采集：2026-08-01 06:52:20
+> 来源：InfoQ 中文　|　原发布：2026-07-31　|　采集：2026-08-02 06:44:51
 
 ## 正文
 

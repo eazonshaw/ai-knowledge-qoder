@@ -1,6 +1,6 @@
 ---
 title: "下一个国民级 AI 产品，或许就诞生于一人之手"
-date: 2026-08-01 06:52:20
+date: 2026-08-02 06:44:51
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "7 月 30 日下午，极客部落 OPC 入驻路演评审活动在北京望京 SOHO T2 星禾 AI 智体创新谷·极客部落举行。 望京街道副主任盛骥，凯旋基金投资经理郭佳惠，领骏资本创始合伙人刘霄，星禾集团"
 source_url: "https://www.infoq.cn/article/uZNH5KLzR1efgGEG0wEq?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-07-31　|　采集：2026-08-01 06:52:20
+> 来源：InfoQ 中文　|　原发布：2026-07-31　|　采集：2026-08-02 06:44:51
 
 ## 正文
 
