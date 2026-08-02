@@ -1,6 +1,6 @@
 ---
 title: "Quick BI 数据分析智能体的可靠工程实践｜AICon深圳"
-date: 2026-08-02 06:44:51
+date: 2026-08-03 06:46:08
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Agent 时代，哪些方向正在成为行业关键变量？50 + 实战案例揭晓答案！ 模型参数规模不断突破，推理成本持续下降，开源生态日益繁荣。当模型能力逐渐成为行业共识，一个新的问题开始浮现：当人人都能获得"
 source_url: "https://www.infoq.cn/article/VJ3s26QZUG1C5ANF2O4Q?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-01　|　采集：2026-08-02 06:44:51
+> 来源：InfoQ 中文　|　原发布：2026-08-01　|　采集：2026-08-03 06:46:08
 
 ## 正文
 
