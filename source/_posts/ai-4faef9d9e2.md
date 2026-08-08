@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税"
-date: 2026-08-08 06:25:47
+date: 2026-08-09 06:18:44
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "整理｜华卫 刚刚，Meta 推出其首款编程智能体 Muse Code，同时发布了针对编程优化的前沿模型 Muse Spark 1.2。这可能是该公司迄今为止对 AI 编程工具市场最认真的一次进军。 M"
 source_url: "https://www.infoq.cn/article/5DEAabOIcvRrEMhAbCyz?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-07　|　采集：2026-08-08 06:25:47
+> 来源：InfoQ 中文　|　原发布：2026-08-07　|　采集：2026-08-09 06:18:44
 
 ## 正文
 
