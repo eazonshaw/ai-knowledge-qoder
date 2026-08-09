@@ -1,6 +1,6 @@
 ---
 title: "GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing"
-date: 2026-08-09 06:18:44
+date: 2026-08-10 06:20:29
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "GitHub has consolidated the changes(https://github.blog/security/supply-chain-security/disrupting-su"
 source_url: "https://www.infoq.com/news/2026/08/github-npm-actions-defaults/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-08-08T07:45:00.000Z　|　采集：2026-08-09 06:18:44
+> 来源：InfoQ (EN)　|　原发布：2026-08-08T07:45:00.000Z　|　采集：2026-08-10 06:20:29
 
 ## 正文
 

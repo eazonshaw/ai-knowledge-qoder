@@ -1,6 +1,6 @@
 ---
 title: "金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行｜AICon深圳"
-date: 2026-08-09 06:18:44
+date: 2026-08-10 06:20:29
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Agent 时代，哪些方向正在成为行业关键变量？50 + 实战案例揭晓答案！ 模型参数规模不断突破，推理成本持续下降，开源生态日益繁荣。当模型能力逐渐成为行业共识，一个新的问题开始浮现：当人人都能获得"
 source_url: "https://www.infoq.cn/article/hQp9boye2rpPH7ZWUvXL?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-08　|　采集：2026-08-09 06:18:44
+> 来源：InfoQ 中文　|　原发布：2026-08-08　|　采集：2026-08-10 06:20:29
 
 ## 正文
 
