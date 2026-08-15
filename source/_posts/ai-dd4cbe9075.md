@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek + Pi 王炸组合跑赢 Claude Code？Pi创始人：这套组合我早押中了"
-date: 2026-08-15 06:13:16
+date: 2026-08-16 06:11:36
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "8 月 11 日，Pi Harness 创始人 Mario Zechner 转发了一组数据：开发者 0xEvan 用 Pi 调用 DeepSeek V4 Flash，处理了近 10 亿输入 Token"
 source_url: "https://www.infoq.cn/article/XpFUaftcEE3iLgGzYGZi?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-14　|　采集：2026-08-15 06:13:16
+> 来源：InfoQ 中文　|　原发布：2026-08-14　|　采集：2026-08-16 06:11:36
 
 ## 正文
 

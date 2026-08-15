@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform"
-date: 2026-08-15 06:13:16
+date: 2026-08-16 06:11:36
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Cloudflare has migrated cdnjs(https://blog.cloudflare.com/cdnjs-dev-platform-migration/), its open s"
 source_url: "https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-08-14T14:42:00.000Z　|　采集：2026-08-15 06:13:16
+> 来源：InfoQ (EN)　|　原发布：2026-08-14T14:42:00.000Z　|　采集：2026-08-16 06:11:36
 
 ## 正文
 

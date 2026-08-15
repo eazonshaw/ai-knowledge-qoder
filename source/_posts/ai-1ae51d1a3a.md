@@ -1,6 +1,6 @@
 ---
 title: "AI 正在重塑故障处理流程，但棘手问题仍需人类解决"
-date: 2026-08-15 06:13:16
+date: 2026-08-16 06:11:36
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "AI 正在飞速改变工程团队处理生产故障的模式：它不仅能汇总故障沟通记录、解析不熟悉的代码、给出修复方案、生成代码合并请求，还能越来越多地辅助故障排查诊断。不过，Uptime Labs 在其故障处理行业"
 source_url: "https://www.infoq.cn/article/dxzigmlmI6BN4MWqYNI2?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-14　|　采集：2026-08-15 06:13:16
+> 来源：InfoQ 中文　|　原发布：2026-08-14　|　采集：2026-08-16 06:11:36
 
 ## 正文
 
