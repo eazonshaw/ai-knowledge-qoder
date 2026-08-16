@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults"
-date: 2026-08-16 06:11:36
+date: 2026-08-17 06:11:44
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Cloudflare has launched agent tracing(https://blog.cloudflare.com/agents-on-cloudflare/), the first "
 source_url: "https://www.infoq.com/news/2026/08/cloudflare-agent-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-08-15T10:46:00.000Z　|　采集：2026-08-16 06:11:36
+> 来源：InfoQ (EN)　|　原发布：2026-08-15T10:46:00.000Z　|　采集：2026-08-17 06:11:44
 
 ## 正文
 
@@ -32,7 +32,7 @@ Subagent work nests under the operation that invoked it, so a parent agent deleg
 
 That adjacency is what developers responded to. Replying to Cloudflare's [announcement on X](https://x.com/CloudflareDev/status/2084701142576238715), Mykyta Pavlenko wrote:
 
-i'd try this on hermes just for the trace waterfall - seeing the model call directly above a bad tool argument is the debugging view i want
+"I'd try this on hermes just for the trace waterfall - seeing the model call directly above a bad tool argument is the debugging view I want"
 
 One caveat sits inside the approval span. The [documentation](https://developers.cloudflare.com/agents/runtime/operations/observability/tracing/) notes these represent lifecycle events within a Worker invocation and do not measure the time a person waits before responding across invocations. Human-in-the-loop latency, arguably the most interesting number in an approval workflow, is not what the span records.
 

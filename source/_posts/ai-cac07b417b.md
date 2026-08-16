@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境"
-date: 2026-08-16 06:11:36
+date: 2026-08-17 06:11:44
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Cloudflare 推出了 Cloudflare Computer(https://blog.cloudflare.com/cloudflare-computer/)。这是一个新的开源运行时，旨在为"
 source_url: "https://www.infoq.cn/article/RaKIH7E4lA9uQ4Iasltb?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-15　|　采集：2026-08-16 06:11:36
+> 来源：InfoQ 中文　|　原发布：2026-08-15　|　采集：2026-08-17 06:11:44
 
 ## 正文
 

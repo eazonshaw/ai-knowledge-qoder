@@ -1,6 +1,6 @@
 ---
 title: "Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线"
-date: 2026-08-16 06:11:36
+date: 2026-08-17 06:11:44
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "谷歌正在以前所未有的速度更新 Gemini。 昨晚 当地时间 8 月 13 日，Google DeepMind 正式发布 Gemini 3.7 Flash。谷歌给它的定义非常直接：“迄今最智能的主力模"
 source_url: "https://www.infoq.cn/article/plZY01etBHv3ETOYG0af?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-14　|　采集：2026-08-16 06:11:36
+> 来源：InfoQ 中文　|　原发布：2026-08-14　|　采集：2026-08-17 06:11:44
 
 ## 正文
 

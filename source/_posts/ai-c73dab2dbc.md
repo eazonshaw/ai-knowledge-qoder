@@ -1,6 +1,6 @@
 ---
 title: "面向多模态推理的高效长上下文建模｜AICon深圳"
-date: 2026-08-16 06:11:36
+date: 2026-08-17 06:11:44
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "大模型能力持续演进，但 AI 的下一阶段竞争正在发生变化。模型能力之外，如何构建可靠的智能体、完善 AI 工程体系，并让 AI 在复杂业务环境中稳定运行，正在成为产业探索的新重点。 8 月 21 日-"
 source_url: "https://www.infoq.cn/article/OgbViICigja8tasE0lwi?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-15　|　采集：2026-08-16 06:11:36
+> 来源：InfoQ 中文　|　原发布：2026-08-15　|　采集：2026-08-17 06:11:44
 
 ## 正文
 
