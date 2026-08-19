@@ -1,6 +1,6 @@
 ---
 title: "Presentation: From Fab To Token - The State Of The Market"
-date: 2026-08-19 06:13:01
+date: 2026-08-20 06:15:13
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Transcript Jordan Nanos: My name is Jordan. I work at SemiAnalysis. I'm on the technical staff. I pr"
 source_url: "https://www.infoq.com/presentations/ai-hardware-tokenomics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-08-18T16:00:00.000Z　|　采集：2026-08-19 06:13:01
+> 来源：InfoQ (EN)　|　原发布：2026-08-18T16:00:00.000Z　|　采集：2026-08-20 06:15:13
 
 ## 正文
 

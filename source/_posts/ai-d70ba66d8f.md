@@ -1,6 +1,6 @@
 ---
 title: "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践"
-date: 2026-08-19 06:13:01
+date: 2026-08-20 06:15:13
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "2026 年，智能体将在企业级应用中取得哪些实质性突破？点击下载(https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq)《2026 年 AI 与数据发展"
 source_url: "https://www.infoq.cn/article/pOfV96f9DHG9Cw1KQAZB?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-18　|　采集：2026-08-19 06:13:01
+> 来源：InfoQ 中文　|　原发布：2026-08-18　|　采集：2026-08-20 06:15:13
 
 ## 正文
 

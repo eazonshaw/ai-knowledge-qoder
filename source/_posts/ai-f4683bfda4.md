@@ -1,6 +1,6 @@
 ---
 title: "共识之外：Linux 生态系统中 AI 政策的碎片化现象"
-date: 2026-08-19 06:13:01
+date: 2026-08-20 06:15:13
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "随着大语言模型（LLM）重新定义软件开发的边界，Linux 生态系统正面临着法律风险、技术完整性和哲学纯粹性交织的复杂局面。各大项目正在制定各不相同的政策：从 GCC 出于法律安全性和编译器精确性考虑"
 source_url: "https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-18　|　采集：2026-08-19 06:13:01
+> 来源：InfoQ 中文　|　原发布：2026-08-18　|　采集：2026-08-20 06:15:13
 
 ## 正文
 
