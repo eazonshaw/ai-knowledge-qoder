@@ -1,6 +1,6 @@
 ---
 title: "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化"
-date: 2026-08-22 06:14:01
+date: 2026-08-23 06:12:29
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "近日，苏州材科源图科技有限公司（MatSource）宣布，近三个月内连续完成两轮超亿元天使轮系列融资。 其中，前一轮投资方包括苏高新、硅港资本、合肥原初陆号和上海远鼓，老股东亿合资本、清新资本追投；新"
 source_url: "https://www.infoq.cn/article/YB51rwb95keVmlIZ0xQd?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-21　|　采集：2026-08-22 06:14:01
+> 来源：InfoQ 中文　|　原发布：2026-08-21　|　采集：2026-08-23 06:12:29
 
 ## 正文
 

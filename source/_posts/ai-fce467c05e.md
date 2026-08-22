@@ -1,6 +1,6 @@
 ---
 title: "本地运行、支持视觉与工具调用：Meta 开源智能体模型"
-date: 2026-08-22 06:14:01
+date: 2026-08-23 06:12:29
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Meta AI Research 宣布推出 Muse Glimmer(https://research.meta.ai/blog/introducing-muse-glimmer-open-agent"
 source_url: "https://www.infoq.cn/article/aGfkSN1YlmLrUQMPea9L?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-21　|　采集：2026-08-22 06:14:01
+> 来源：InfoQ 中文　|　原发布：2026-08-21　|　采集：2026-08-23 06:12:29
 
 ## 正文
 
