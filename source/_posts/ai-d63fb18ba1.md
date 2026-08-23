@@ -1,6 +1,6 @@
 ---
 title: "AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks"
-date: 2026-08-23 06:12:29
+date: 2026-08-24 06:12:07
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "AWS has recently released aws-bench(https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/), "
 source_url: "https://www.infoq.com/news/2026/08/aws-bench-agent-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-08-22T08:00:00.000Z　|　采集：2026-08-23 06:12:29
+> 来源：InfoQ (EN)　|　原发布：2026-08-22T08:00:00.000Z　|　采集：2026-08-24 06:12:07
 
 ## 正文
 

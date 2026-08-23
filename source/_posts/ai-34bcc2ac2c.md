@@ -1,6 +1,6 @@
 ---
 title: "JetBrains详细阐述了控制AI支出快速增长的首批举措"
-date: 2026-08-23 06:12:29
+date: 2026-08-24 06:12:07
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "JetBrains在一篇博客文章中介绍(https://blog.jetbrains.com/ai/2026/08/our-first-moves-to-get-ai-spend-under-cont"
 source_url: "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-22　|　采集：2026-08-23 06:12:29
+> 来源：InfoQ 中文　|　原发布：2026-08-22　|　采集：2026-08-24 06:12:07
 
 ## 正文
 

@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Announces Kitesurf, a Browser Engine for Agents"
-date: 2026-08-23 06:12:29
+date: 2026-08-24 06:12:07
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Cloudflare recently introduced Kitesurf,(https://blog.cloudflare.com/kitesurf/) a lightweight browse"
 source_url: "https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-08-22T15:01:00.000Z　|　采集：2026-08-23 06:12:29
+> 来源：InfoQ (EN)　|　原发布：2026-08-22T15:01:00.000Z　|　采集：2026-08-24 06:12:07
 
 ## 正文
 
