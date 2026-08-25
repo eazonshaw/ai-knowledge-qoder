@@ -1,6 +1,6 @@
 ---
 title: "Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs"
-date: 2026-08-25 06:16:19
+date: 2026-08-26 06:17:08
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Key Takeaways - When building an internal developer platform (IDP), start with the bottlenecks that "
 source_url: "https://www.infoq.com/articles/rightsizing-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-08-24T11:00:00.000Z　|　采集：2026-08-25 06:16:19
+> 来源：InfoQ (EN)　|　原发布：2026-08-24T11:00:00.000Z　|　采集：2026-08-26 06:17:08
 
 ## 正文
 
@@ -32,7 +32,7 @@ At Wehkamp, we write and run a lot of software across logistics, data science, a
 
 #### Related Sponsors
 
--   ##### [AI's Physical Constraints: How AI Rewired the Data Center](https://www.infoq.com/url/f/b8f3710f-b433-4def-86d9-6687c10210f6/)
+-   ##### [Design for Failure: How to Guarantee Data Access During Cloud Outages](https://www.infoq.com/url/f/3a643cc9-f054-42db-9750-bcc16f824434/)
     
 
 About ten years ago, we made a breakthrough when leadership set a clear goal: Release weekly rather than quarterly to deliver features faster. We created a new department, which ended up absorbing the existing tech organization and drove our first big change with public cloud, containers, and zero-handoff engineering. As long as you could emit a working container and make git commits, nobody would be in your way to deliver changes.

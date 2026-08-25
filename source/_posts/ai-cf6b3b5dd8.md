@@ -1,6 +1,6 @@
 ---
 title: "Podcast: The Human Edge: Why Brownfield Codebases Need Mob Programming, Not Just AI Vibes"
-date: 2026-08-25 06:16:19
+date: 2026-08-26 06:17:08
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Transcript Olimpiu Pop: Hello everybody. I'm Olimpiu Pop, an InfoQ editor. And today we have in fron"
 source_url: "https://www.infoq.com/podcasts/brownfield-codebases-mob-programming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-08-24T11:00:00.000Z　|　采集：2026-08-25 06:16:19
+> 来源：InfoQ (EN)　|　原发布：2026-08-24T11:00:00.000Z　|　采集：2026-08-26 06:17:08
 
 ## 正文
 

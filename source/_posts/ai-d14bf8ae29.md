@@ -1,6 +1,6 @@
 ---
 title: "完全相信AI代码的Uncle Bob，坦诚这条路还没走通"
-date: 2026-08-25 06:16:19
+date: 2026-08-26 06:17:08
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "在 AI 代码极度普遍的当下，一直告诫开发者要严肃对待自己编写的代码的 Uncle Bob，如今已经彻底放弃对 AI 代码逐行人工评审，转而在搭建一套依靠指标与约束条件的管控框架，这一做法在工程师群体"
 source_url: "https://www.infoq.cn/article/ogFMPSyD3LqR9RtbIRky?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-24　|　采集：2026-08-25 06:16:19
+> 来源：InfoQ 中文　|　原发布：2026-08-24　|　采集：2026-08-26 06:17:08
 
 ## 正文
 
