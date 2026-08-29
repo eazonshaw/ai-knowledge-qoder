@@ -1,6 +1,6 @@
 ---
 title: "下一层抽象：从UX角度思考Agentic OS的样貌"
-date: 2026-08-29 11:25:52
+date: 2026-08-30 07:43:58
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "过去一年里，每当有新闻展示所谓的“智能体手机”或者桌面 Agent（还记得全民龙虾吗？），我都嗤之以鼻：“我自己点两下不就做完了吗？” 对熟悉计算机的人来说，这种反应很正常。 打开设置调整字体大小，解"
 source_url: "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-28　|　采集：2026-08-29 11:25:52
+> 来源：InfoQ 中文　|　原发布：2026-08-28　|　采集：2026-08-30 07:43:58
 
 ## 正文
 

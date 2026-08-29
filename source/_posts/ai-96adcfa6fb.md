@@ -1,6 +1,6 @@
 ---
 title: "AKS Looks to Make Node Disruption More Predictable with New NAP Guidance"
-date: 2026-08-29 11:25:52
+date: 2026-08-30 07:43:58
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Microsoft is placing greater emphasis on controlling disruption in Azure Kubernetes Service (AKS) No"
 source_url: "https://www.infoq.com/news/2026/08/aks-node-disruption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-08-28T12:00:00.000Z　|　采集：2026-08-29 11:25:52
+> 来源：InfoQ (EN)　|　原发布：2026-08-28T12:00:00.000Z　|　采集：2026-08-30 07:43:58
 
 ## 正文
 
