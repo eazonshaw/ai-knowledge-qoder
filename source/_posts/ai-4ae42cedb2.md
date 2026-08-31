@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Workers Accept Inbound TCP, with gRPC the First Protocol on Top"
-date: 2026-08-30 07:43:58
+date: 2026-08-31 08:03:03
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Cloudflare Workers(https://developers.cloudflare.com/workers/) can now accept inbound TCP connection"
 source_url: "https://www.infoq.com/news/2026/08/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-07-28　|　采集：2026-08-30 07:43:58
+> 来源：InfoQ (EN)　|　原发布：2026-07-28　|　采集：2026-08-31 08:03:03
 
 ## 正文
 

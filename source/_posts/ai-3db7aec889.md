@@ -1,6 +1,6 @@
 ---
 title: "FreeToken Unlocks Frontier MoE Inference on Consumer Hardware via Dynamic Co-Execution"
-date: 2026-08-30 07:43:58
+date: 2026-08-31 08:03:03
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Researchers from UC Berkeley and MIT have introduced FreeToken(https://github.com/FlashML-org/FreeTo"
 source_url: "https://www.infoq.com/news/2026/08/freetoken-local-inference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-08-29T05:05:00.000Z　|　采集：2026-08-30 07:43:58
+> 来源：InfoQ (EN)　|　原发布：2026-08-29T05:05:00.000Z　|　采集：2026-08-31 08:03:03
 
 ## 正文
 

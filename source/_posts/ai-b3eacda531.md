@@ -1,6 +1,6 @@
 ---
-title: "Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models"
-date: 2026-08-30 07:43:58
+title: "Presentation: Architecting the Data Layer for AI Agents: from Transactional Systems to MCP and Semantic Models"
+date: 2026-08-31 08:03:03
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,11 +10,11 @@ tags:
 excerpt: "InfoQ Homepage(https://www.infoq.com/ \"InfoQ Homepage\") Presentations(https://www.infoq.com/presenta"
 source_url: "https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-08-29T11:00:00.000Z　|　采集：2026-08-30 07:43:58
+> 来源：InfoQ (EN)　|　原发布：2026-08-29T11:00:00.000Z　|　采集：2026-08-31 08:03:03
 
 ## 正文
 
-[InfoQ Homepage](https://www.infoq.com/ "InfoQ Homepage") [Presentations](https://www.infoq.com/presentations "Presentations") Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models
+[InfoQ Homepage](https://www.infoq.com/ "InfoQ Homepage") [Presentations](https://www.infoq.com/presentations "Presentations") Architecting the Data Layer for AI Agents: from Transactional Systems to MCP and Semantic Models
 
 ## Transcript
 
