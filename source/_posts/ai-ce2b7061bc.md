@@ -1,6 +1,6 @@
 ---
 title: "智能体请求暴增9.4倍，token账单却没涨：Uber 公开AI软件工厂省钱方法"
-date: 2026-09-01 08:54:36
+date: 2026-09-02 07:40:59
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "AI 工具现已嵌入到 Uber 软件开发的每个阶段。超过 70% 的代码合并请求由本地或云端智能体生成。工程师们已经在软件开发生命周期中构建了超过 3600 个智能体技能，每天执行超过 30000 次"
 source_url: "https://www.infoq.cn/article/WGj2Jx0K2sbP3dhUXeC5?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-08-31　|　采集：2026-09-01 08:54:36
+> 来源：InfoQ 中文　|　原发布：2026-08-31　|　采集：2026-09-02 07:40:59
 
 ## 正文
 
