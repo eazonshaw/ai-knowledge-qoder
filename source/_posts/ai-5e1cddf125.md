@@ -1,6 +1,6 @@
 ---
 title: "当 AI 开始重写负载，数据库该如何重新设计？"
-date: 2026-09-03 07:41:54
+date: 2026-09-04 07:43:33
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "过去很长一段时间，数据库的目标足够明确：把数据存稳、查快，并在业务高峰时扛住压力。 但 AI 正在改写这个命题。向量、图、多模态等新数据对象进入生产链路，GPU、RDMA 等异构硬件成为系统设计变量；"
 source_url: "https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-02　|　采集：2026-09-03 07:41:54
+> 来源：InfoQ 中文　|　原发布：2026-09-02　|　采集：2026-09-04 07:43:33
 
 ## 正文
 
