@@ -1,6 +1,6 @@
 ---
 title: "🔥 优化及缺陷修复：开源 AI 无代码平台 NocoBase"
-date: 2026-09-05 07:34:47
+date: 2026-09-06 07:27:42
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。 main： 截至目前最稳定的版本，推荐安装此版本。 next："
 source_url: "https://www.oschina.net/news/502322"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-09-04T08:19:17.000Z　|　采集：2026-09-05 07:34:47
+> 来源：OSChina 资讯　|　原发布：2026-09-04T08:19:17.000Z　|　采集：2026-09-06 07:27:42
 
 ## 正文
 

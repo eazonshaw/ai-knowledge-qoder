@@ -1,6 +1,6 @@
 ---
 title: "AI 浪潮里，听见一线的声音｜AICon 深圳 2026 优秀出品人 & 明星讲师名单揭晓"
-date: 2026-09-05 07:34:47
+date: 2026-09-06 07:27:42
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "8 月 21 至 22 日，由极客邦科技旗下 InfoQ 中国主办的 2026 AICon 全球人工智能开发与应用大会·深圳站(https://aicon.infoq.cn/2026/shenzhen"
 source_url: "https://www.infoq.cn/article/6EYVBX5UD2Cb0PWYsPCq?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-04　|　采集：2026-09-05 07:34:47
+> 来源：InfoQ 中文　|　原发布：2026-09-04　|　采集：2026-09-06 07:27:42
 
 ## 正文
 

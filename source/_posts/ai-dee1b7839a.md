@@ -1,6 +1,6 @@
 ---
 title: "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”"
-date: 2026-09-05 07:34:47
+date: 2026-09-06 07:27:42
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "!(/ai-knowledge-qoder/imgs/9ea5b22d1e2ec87f.png) 今天凌晨，OpenAI 正式发布 GPT-6 Astra，公司称该模型是“多年研究和大量投资”的成果。"
 source_url: "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-04　|　采集：2026-09-05 07:34:47
+> 来源：InfoQ 中文　|　原发布：2026-09-04　|　采集：2026-09-06 07:27:42
 
 ## 正文
 

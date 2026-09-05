@@ -1,6 +1,6 @@
 ---
 title: "Mini book: Next-Gen Architecture Playbook: Insights and Patterns for the AI Era"
-date: 2026-09-05 07:34:47
+date: 2026-09-06 07:27:42
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Software architecture faces a pivotal moment: rapid iteration, cloud-native adoption, and ubiquitous"
 source_url: "https://www.infoq.com/minibooks/next-gen-architecture-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-04T11:00:00.000Z　|　采集：2026-09-05 07:34:47
+> 来源：InfoQ (EN)　|　原发布：2026-09-04T11:00:00.000Z　|　采集：2026-09-06 07:27:42
 
 ## 正文
 

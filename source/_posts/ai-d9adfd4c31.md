@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes Promotes KYAML as a Safer, More Consistent Way to Work with Manifests"
-date: 2026-09-05 07:34:47
+date: 2026-09-06 07:27:42
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Kubernetes(https://kubernetes.io/) is encouraging developers to take a closer look at KYAML(https://"
 source_url: "https://www.infoq.com/news/2026/09/kubernetes-kyaml-manifests/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-04T12:00:00.000Z　|　采集：2026-09-05 07:34:47
+> 来源：InfoQ (EN)　|　原发布：2026-09-04T12:00:00.000Z　|　采集：2026-09-06 07:27:42
 
 ## 正文
 
