@@ -1,6 +1,6 @@
 ---
 title: "Blume: Zero-Config Docs Framework That Turns a Markdown Folder into an AI-Ready Website"
-date: 2026-09-06 07:27:42
+date: 2026-09-07 07:21:42
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Blume, a zero-config documentation framework that renders a folder of Markdown into a complete docs "
 source_url: "https://www.infoq.com/news/2026/09/blume-docs-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-05T06:27:00.000Z　|　采集：2026-09-06 07:27:42
+> 来源：InfoQ (EN)　|　原发布：2026-09-05T06:27:00.000Z　|　采集：2026-09-07 07:21:42
 
 ## 正文
 

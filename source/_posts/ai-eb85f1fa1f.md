@@ -1,6 +1,6 @@
 ---
 title: "Beyond Zero: Google Publishes Successor to BeyondCorp"
-date: 2026-09-06 07:27:42
+date: 2026-09-07 07:21:42
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "In a recent research paper(https://spawn-queue.acm.org/doi/10.1145/3819083), Google introduced Beyon"
 source_url: "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-05T10:40:00.000Z　|　采集：2026-09-06 07:27:42
+> 来源：InfoQ (EN)　|　原发布：2026-09-05T10:40:00.000Z　|　采集：2026-09-07 07:21:42
 
 ## 正文
 

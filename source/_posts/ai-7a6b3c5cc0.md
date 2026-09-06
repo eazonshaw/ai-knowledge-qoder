@@ -1,6 +1,6 @@
 ---
 title: "Presentation: A Few Predicted Talks From QConAI 2030"
-date: 2026-09-06 07:27:42
+date: 2026-09-07 07:21:42
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Transcript Meryem Arik: I'm going to be doing something very risky today, and I'm going to be predic"
 source_url: "https://www.infoq.com/presentations/ai-predictions-2030/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-05T11:00:00.000Z　|　采集：2026-09-06 07:27:42
+> 来源：InfoQ (EN)　|　原发布：2026-09-05T11:00:00.000Z　|　采集：2026-09-07 07:21:42
 
 ## 正文
 
