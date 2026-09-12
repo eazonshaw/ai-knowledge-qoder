@@ -1,6 +1,6 @@
 ---
 title: "刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话"
-date: 2026-09-12 07:42:06
+date: 2026-09-13 07:35:27
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "当 AI 越来越聪明，人还剩下什么？ 9 月 10 日上午，2026 Inclusion·外滩大会开幕式暨主论坛在上海举行。 圆桌对话中，著名作家刘震云与香港大学计算与数据科学学院院长马毅，从文学与科"
 source_url: "https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-11　|　采集：2026-09-12 07:42:06
+> 来源：InfoQ 中文　|　原发布：2026-09-11　|　采集：2026-09-13 07:35:27
 
 ## 正文
 

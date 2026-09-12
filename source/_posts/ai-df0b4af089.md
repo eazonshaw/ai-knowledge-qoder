@@ -1,6 +1,6 @@
 ---
 title: "AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同"
-date: 2026-09-12 07:42:06
+date: 2026-09-13 07:35:27
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "9 月 10 日，AMD 在北京举办媒体沙龙，发布锐龙 AI Max PRO 400 系列处理器，并展示基于该平台打造的 Mini PC、紧凑型工作站、笔记本、平板、一体机和 AI NAS 等产品。 "
 source_url: "https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-11　|　采集：2026-09-12 07:42:06
+> 来源：InfoQ 中文　|　原发布：2026-09-11　|　采集：2026-09-13 07:35:27
 
 ## 正文
 

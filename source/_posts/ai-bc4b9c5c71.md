@@ -1,6 +1,6 @@
 ---
 title: "AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化"
-date: 2026-09-12 07:42:06
+date: 2026-09-13 07:35:27
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "!图片(/ai-knowledge-qoder/imgs/291e712bcc88eaed.webp) 昨天我作为圆桌嘉宾参加 Snowflake World Tour Shanghai，晚上也和 S"
 source_url: "https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-11　|　采集：2026-09-12 07:42:06
+> 来源：InfoQ 中文　|　原发布：2026-09-11　|　采集：2026-09-13 07:35:27
 
 ## 正文
 

@@ -1,6 +1,6 @@
 ---
 title: "AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践"
-date: 2026-09-12 07:42:06
+date: 2026-09-13 07:35:27
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "AI Coding 正在显著提升代码生产效率，但线上告警、根因定位、止损和修复等稳定性环节并未同步提速。更值得警惕的是，缺乏全局上下文的 AI 可能沿着“最小阻力路径”消除表面现象，却留下跨工程、跨系"
 source_url: "https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-11　|　采集：2026-09-12 07:42:06
+> 来源：InfoQ 中文　|　原发布：2026-09-11　|　采集：2026-09-13 07:35:27
 
 ## 正文
 

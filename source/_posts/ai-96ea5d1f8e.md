@@ -1,6 +1,6 @@
 ---
 title: "当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察"
-date: 2026-09-12 07:42:06
+date: 2026-09-13 07:35:27
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "9 月 9 日，以“JoyAI·跃迁物理世界”为主题的 2026 京东全球科技探索者大会（JDD）在北京亦庄举行。相比过去几年 AI 行业对模型参数、推理能力和 Agent 的集中讨论，今年大会释放出"
 source_url: "https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-11　|　采集：2026-09-12 07:42:06
+> 来源：InfoQ 中文　|　原发布：2026-09-11　|　采集：2026-09-13 07:35:27
 
 ## 正文
 

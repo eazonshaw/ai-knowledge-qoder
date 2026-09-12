@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA Personal AI Router Distributes AI Tasks across Local Compute"
-date: 2026-09-12 07:42:06
+date: 2026-09-13 07:35:27
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "NVIDIA Personal AI Router (PAIR), now available in beta, lets you combine the inference capacity of "
 source_url: "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-11T15:00:00.000Z　|　采集：2026-09-12 07:42:06
+> 来源：InfoQ (EN)　|　原发布：2026-09-11T15:00:00.000Z　|　采集：2026-09-13 07:35:27
 
 ## 正文
 
