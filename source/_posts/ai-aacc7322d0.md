@@ -1,6 +1,6 @@
 ---
 title: "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞"
-date: 2026-09-13 07:35:27
+date: 2026-09-14 07:47:42
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "当团队评估 AI 编码智能体的成本时，往往会仔细审视模型。但最近的三项基准测试表明，智能体框架，也就是引导模型完成任务的软件，可能同样重要。 任何 Web 开发者都会熟悉其中的原因：每次推理请求都需要"
 source_url: "https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-12　|　采集：2026-09-13 07:35:27
+> 来源：InfoQ 中文　|　原发布：2026-09-12　|　采集：2026-09-14 07:47:42
 
 ## 正文
 

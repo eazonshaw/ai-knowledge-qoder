@@ -1,6 +1,6 @@
 ---
 title: "Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs"
-date: 2026-09-13 07:35:27
+date: 2026-09-14 07:47:42
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "InfoQ Homepage(https://www.infoq.com/ \"InfoQ Homepage\") Presentations(https://www.infoq.com/presenta"
 source_url: "https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-12T11:00:00.000Z　|　采集：2026-09-13 07:35:27
+> 来源：InfoQ (EN)　|　原发布：2026-09-12T11:00:00.000Z　|　采集：2026-09-14 07:47:42
 
 ## 正文
 

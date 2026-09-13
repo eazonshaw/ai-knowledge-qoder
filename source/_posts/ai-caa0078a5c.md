@@ -1,6 +1,6 @@
 ---
 title: "全能 Go Agent 框架 Covonaut v1.1.2 发布：终端对话加入旁问与三档输出"
-date: 2026-09-13 07:35:27
+date: 2026-09-14 07:47:42
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "Covonaut 是面向生产环境的 Go Agent 框架，纯 Go 实现，以 MIT 协议开源。覆盖 Agent 开发的完整链路：Agent Loop（含上下文自动压缩、指数退避重试）、工具系统、多"
 source_url: "https://www.oschina.net/news/502428"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-09-11T12:51:44.000Z　|　采集：2026-09-13 07:35:27
+> 来源：OSChina 资讯　|　原发布：2026-09-11T12:51:44.000Z　|　采集：2026-09-14 07:47:42
 
 ## 正文
 
