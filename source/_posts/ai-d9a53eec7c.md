@@ -1,6 +1,6 @@
 ---
 title: "Presentation: Complexity and Creativity in Software Engineering"
-date: 2026-09-19 07:45:40
+date: 2026-09-20 07:47:32
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Transcript Phillip Mortimer: Today I want to talk to you about two seemingly unrelated topics, compl"
 source_url: "https://www.infoq.com/presentations/ai-software-engineering-complexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-18T11:00:00.000Z　|　采集：2026-09-19 07:45:40
+> 来源：InfoQ (EN)　|　原发布：2026-09-18T11:00:00.000Z　|　采集：2026-09-20 07:47:32
 
 ## 正文
 

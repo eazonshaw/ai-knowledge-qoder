@@ -1,6 +1,6 @@
 ---
 title: "被热议的RSI，39 年前就已诞生？现代人工智能之父复盘RSI的漫长探索"
-date: 2026-09-19 07:45:40
+date: 2026-09-20 07:47:32
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "作者 | Jürgen Schmidhuber 翻译 | 林绮蓓 最近一段时间，RSI（递归自我改进）成为人工智能领域的热门话题。 近期，OpenAI 首次通过内部量化数据，系统披露 RSI 项目的实"
 source_url: "https://www.infoq.cn/article/wbpy0Kv3tB32jEPV6Cg0?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-18　|　采集：2026-09-19 07:45:40
+> 来源：InfoQ 中文　|　原发布：2026-09-18　|　采集：2026-09-20 07:47:32
 
 ## 正文
 

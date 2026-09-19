@@ -1,6 +1,6 @@
 ---
 title: "6.5亿美元押注“AI研究AI”：一群顶级研究员想造出“自我进化”的超级智能"
-date: 2026-09-19 07:45:40
+date: 2026-09-20 07:47:32
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "如果让 AI 接管 AI 研究本身，会发生什么？Richard Socher 正在用一家新公司押注这个问题。 今年 5 月，这位曾任 Salesforce 首席科学家、先后创办 MetaMind 和 "
 source_url: "https://www.infoq.cn/article/da8jMox7ikdNmD2vYyTm?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-18　|　采集：2026-09-19 07:45:40
+> 来源：InfoQ 中文　|　原发布：2026-09-18　|　采集：2026-09-20 07:47:32
 
 ## 正文
 
