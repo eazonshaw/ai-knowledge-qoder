@@ -1,6 +1,6 @@
 ---
 title: "GPT-5.6-Cyber 代理多次突破虚拟机限制，证明虚拟机和操作系统需要更好的维护"
-date: 2026-09-25 08:10:18
+date: 2026-09-26 08:16:24
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "最近的安全评估(https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/)表明，传统虚拟机无法作为抵"
 source_url: "https://www.infoq.cn/article/TFaXKQvEWOOPfEuqmLkY?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-24　|　采集：2026-09-25 08:10:18
+> 来源：InfoQ 中文　|　原发布：2026-09-24　|　采集：2026-09-26 08:16:24
 
 ## 正文
 

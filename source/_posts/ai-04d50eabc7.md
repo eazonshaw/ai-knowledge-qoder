@@ -1,6 +1,6 @@
 ---
 title: "GPT-6猛砍价，Opus 5.5忙“变好用”：模型价格战，已经不能只看API定价"
-date: 2026-09-25 08:10:18
+date: 2026-09-26 08:16:24
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "北京时间 9 月 23 日，OpenAI 和 Anthropic 前后相隔大约一个小时发布了新一轮模型更新。 OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，将本月早些时候 GPT-"
 source_url: "https://www.infoq.cn/article/VSIsPFiO2hrjBi30wDfE?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-24　|　采集：2026-09-25 08:10:18
+> 来源：InfoQ 中文　|　原发布：2026-09-24　|　采集：2026-09-26 08:16:24
 
 ## 正文
 
