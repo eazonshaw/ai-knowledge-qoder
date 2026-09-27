@@ -1,6 +1,6 @@
 ---
 title: "Presentation: Spritely: Infrastructure for the Future of the Internet"
-date: 2026-09-26 08:16:24
+date: 2026-09-27 08:03:56
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Transcript Christine Lemmer-Webber: This is indeed Spritely, an infrastructure for the future of the"
 source_url: "https://www.infoq.com/presentations/spritely-decentralized-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-25T11:00:00.000Z　|　采集：2026-09-26 08:16:24
+> 来源：InfoQ (EN)　|　原发布：2026-09-25T11:00:00.000Z　|　采集：2026-09-27 08:03:56
 
 ## 正文
 

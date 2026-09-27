@@ -1,6 +1,6 @@
 ---
 title: "Podcast: The Future of AI: From Enterprise Adoption to Open Source Sovereignty"
-date: 2026-09-26 08:16:24
+date: 2026-09-27 08:03:56
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Transcript Olimpiu Pop: Hello everybody. I'm Olimpiu Pop, an InfoQ editor. And given that there are "
 source_url: "https://www.infoq.com/podcasts/enterprise-adoption-open-source-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-25T11:00:00.000Z　|　采集：2026-09-26 08:16:24
+> 来源：InfoQ (EN)　|　原发布：2026-09-25T11:00:00.000Z　|　采集：2026-09-27 08:03:56
 
 ## 正文
 

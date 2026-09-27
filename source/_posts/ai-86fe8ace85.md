@@ -1,6 +1,6 @@
 ---
 title: "Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage"
-date: 2026-09-26 08:16:24
+date: 2026-09-27 08:03:56
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Perplexity has transitioned its core search serving tier away from Amazon DynamoDB to CobbleDB, an i"
 source_url: "https://www.infoq.com/news/2026/09/cobbledb-perplexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-25T14:14:00.000Z　|　采集：2026-09-26 08:16:24
+> 来源：InfoQ (EN)　|　原发布：2026-09-25T14:14:00.000Z　|　采集：2026-09-27 08:03:56
 
 ## 正文
 
