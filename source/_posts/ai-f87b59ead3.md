@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Details Its Migration from WordPress to EmDash"
-date: 2026-09-27 08:03:56
+date: 2026-09-28 08:08:07
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Cloudflare recently documented the migration of its main blog from WordPress to EmDash(https://blog."
 source_url: "https://www.infoq.com/news/2026/09/cloudflare-emdash-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-26T09:38:00.000Z　|　采集：2026-09-27 08:03:56
+> 来源：InfoQ (EN)　|　原发布：2026-09-26T09:38:00.000Z　|　采集：2026-09-28 08:08:07
 
 ## 正文
 

@@ -1,6 +1,6 @@
 ---
 title: "Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud"
-date: 2026-09-27 08:03:56
+date: 2026-09-28 08:08:07
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Docker Cloud Sandboxes provide secure, hosted execution environments(https://www.docker.com/blog/int"
 source_url: "https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-26T17:00:00.000Z　|　采集：2026-09-27 08:03:56
+> 来源：InfoQ (EN)　|　原发布：2026-09-26T17:00:00.000Z　|　采集：2026-09-28 08:08:07
 
 ## 正文
 
