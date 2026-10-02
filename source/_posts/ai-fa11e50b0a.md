@@ -1,6 +1,6 @@
 ---
 title: "首发！openJiuwen workSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和"
-date: 2026-10-01 08:55:41
+date: 2026-10-02 09:12:20
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "复杂 Agent 任务在后台跑，对话在前台继续。实时模型与 Core Agent，开始按两种节奏配合，带来全新的交互体验。 AI 助手正在进入一种新的工作节奏：一边对话，一边调用工具办事。 近期关于 "
 source_url: "https://www.infoq.cn/article/fOuaRtwuySyZsS0iGg7N?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-30　|　采集：2026-10-01 08:55:41
+> 来源：InfoQ 中文　|　原发布：2026-09-30　|　采集：2026-10-02 09:12:20
 
 ## 正文
 

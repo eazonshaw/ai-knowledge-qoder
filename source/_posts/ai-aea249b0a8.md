@@ -1,6 +1,6 @@
 ---
 title: "GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项"
-date: 2026-10-01 08:55:41
+date: 2026-10-02 09:12:20
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "GitLab(https://about.gitlab.com/) 对 GitLab Duo 自托管版本进行了扩展(https://about.gitlab.com/blog/gitlab-duo-s"
 source_url: "https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-30　|　采集：2026-10-01 08:55:41
+> 来源：InfoQ 中文　|　原发布：2026-09-30　|　采集：2026-10-02 09:12:20
 
 ## 正文
 

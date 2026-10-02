@@ -1,6 +1,6 @@
 ---
 title: "Presentation: Context Is the New Code"
-date: 2026-10-01 08:55:41
+date: 2026-10-02 09:12:20
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Transcript Patrick Debois: Context is code. Who believes that is true? There's two ways that I've se"
 source_url: "https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-09-30T11:00:00.000Z　|　采集：2026-10-01 08:55:41
+> 来源：InfoQ (EN)　|　原发布：2026-09-30T11:00:00.000Z　|　采集：2026-10-02 09:12:20
 
 ## 正文
 

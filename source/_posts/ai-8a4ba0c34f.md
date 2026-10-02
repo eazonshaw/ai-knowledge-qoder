@@ -1,6 +1,6 @@
 ---
 title: "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX"
-date: 2026-10-01 08:55:41
+date: 2026-10-02 09:12:20
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "谷歌推出 AX（托管于 agentexecutor.io(https://www.infoq.com/news/2026/09/google-ax-orchestrator/agentexecutor"
 source_url: "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-09-30　|　采集：2026-10-01 08:55:41
+> 来源：InfoQ 中文　|　原发布：2026-09-30　|　采集：2026-10-02 09:12:20
 
 ## 正文
 
