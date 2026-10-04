@@ -1,6 +1,6 @@
 ---
 title: "Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%"
-date: 2026-10-03 08:49:39
+date: 2026-10-04 08:14:44
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Uber has rebuilt major parts of the Uber Eats search pipeline(https://www.uber.com/us/en/blog/uber-e"
 source_url: "https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-10-02T14:22:00.000Z　|　采集：2026-10-03 08:49:39
+> 来源：InfoQ (EN)　|　原发布：2026-10-02T14:22:00.000Z　|　采集：2026-10-04 08:14:44
 
 ## 正文
 

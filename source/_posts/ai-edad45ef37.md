@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出"
-date: 2026-10-03 08:49:39
+date: 2026-10-04 08:14:44
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "在接受 JetBrains 采访时，Zig 项目创建者 Andrew Kelley 详细阐述(https://www.youtube.com/watch?v=iqddnwKF8HQ)了该项目正式禁止 "
 source_url: "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-02　|　采集：2026-10-03 08:49:39
+> 来源：InfoQ 中文　|　原发布：2026-10-02　|　采集：2026-10-04 08:14:44
 
 ## 正文
 

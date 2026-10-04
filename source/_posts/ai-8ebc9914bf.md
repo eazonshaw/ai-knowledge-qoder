@@ -1,6 +1,6 @@
 ---
 title: "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海"
-date: 2026-10-03 08:49:39
+date: 2026-10-04 08:14:44
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 2026 年 QCon 全球软件开发大会大会 · 上海站(https://qcon.infoq.cn/"
 source_url: "https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-02　|　采集：2026-10-03 08:49:39
+> 来源：InfoQ 中文　|　原发布：2026-10-02　|　采集：2026-10-04 08:14:44
 
 ## 正文
 

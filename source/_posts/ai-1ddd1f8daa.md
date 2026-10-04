@@ -1,6 +1,6 @@
 ---
 title: "Presentation: Managing Asynchronous APIs at Scale"
-date: 2026-10-03 08:49:39
+date: 2026-10-04 08:14:44
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Transcript Ian Cooper: What we're going to talk about is the somewhat thorny topic of if you've move"
 source_url: "https://www.infoq.com/presentations/managing-async-apis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-10-02T11:00:00.000Z　|　采集：2026-10-03 08:49:39
+> 来源：InfoQ (EN)　|　原发布：2026-10-02T11:00:00.000Z　|　采集：2026-10-04 08:14:44
 
 ## 正文
 
