@@ -1,6 +1,6 @@
 ---
 title: "🔥 AI 员工支持知识库文档引用：开源 AI 无代码平台 NocoBase"
-date: 2026-10-04 08:14:44
+date: 2026-10-05 08:19:37
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。\\ main： 截至目前最稳定的版本，推荐安装此版本。 nex"
 source_url: "https://www.oschina.net/news/502842"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-10-03T09:07:27.000Z　|　采集：2026-10-04 08:14:44
+> 来源：OSChina 资讯　|　原发布：2026-10-03T09:07:27.000Z　|　采集：2026-10-05 08:19:37
 
 ## 正文
 

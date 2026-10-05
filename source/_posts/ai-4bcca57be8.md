@@ -1,6 +1,6 @@
 ---
 title: "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海"
-date: 2026-10-04 08:14:44
+date: 2026-10-05 08:19:37
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 2026 年 QCon 全球软件开发大会大会 · 上海站(https://qcon.infoq.cn/"
 source_url: "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-03　|　采集：2026-10-04 08:14:44
+> 来源：InfoQ 中文　|　原发布：2026-10-03　|　采集：2026-10-05 08:19:37
 
 ## 正文
 
