@@ -1,6 +1,6 @@
 ---
 title: "谷歌正在内测新 AI 模型，员工称其编码能力和 Claude Opus 5.5 打平"
-date: 2026-10-11 08:35:14
+date: 2026-10-12 08:51:19
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "Gemini 4 还没公开，Antigravity 里已经开始出现 Argon 的身影。最新的引用显示，这个内部模型的选择器带了三档上下文：256K 默认、512K 每轮约消耗 1.3 倍 quota"
 source_url: "https://www.oschina.net/news/502949/google-employees-test-new-gemini-4-model-argon-barium-carbon"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-10-10T09:08:05.000Z　|　采集：2026-10-11 08:35:14
+> 来源：OSChina 资讯　|　原发布：2026-10-10T09:08:05.000Z　|　采集：2026-10-12 08:51:19
 
 ## 正文
 

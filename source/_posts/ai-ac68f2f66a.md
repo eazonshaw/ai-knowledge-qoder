@@ -1,6 +1,6 @@
 ---
 title: "OpenAI 只用 15 天，就杀死了估值 100 亿美元的 Jev？"
-date: 2026-10-11 08:35:14
+date: 2026-10-12 08:51:19
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Jev 发布仅仅 15 天，OpenAI 就下场了。 在今天举行的 DevDay 上，OpenAI 公布了新的 Decisions API。它基于 OpenAI 当前体量最小、价格最低的 GPT-6 "
 source_url: "https://www.infoq.cn/article/qmoRIQ1TceKfKwGlXN0S?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-10　|　采集：2026-10-11 08:35:14
+> 来源：InfoQ 中文　|　原发布：2026-10-10　|　采集：2026-10-12 08:51:19
 
 ## 正文
 

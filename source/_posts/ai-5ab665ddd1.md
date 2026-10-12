@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态"
-date: 2026-10-11 08:35:14
+date: 2026-10-12 08:51:19
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef。官方博客标题写得很直白——『faster,"
 source_url: "https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-10-10T08:25:34.000Z　|　采集：2026-10-11 08:35:14
+> 来源：OSChina 资讯　|　原发布：2026-10-10T08:25:34.000Z　|　采集：2026-10-12 08:51:19
 
 ## 正文
 
