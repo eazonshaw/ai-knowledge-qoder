@@ -1,6 +1,6 @@
 ---
 title: "Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs"
-date: 2026-10-12 08:51:19
+date: 2026-10-13 10:46:35
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Researchers from Meta, MIT, and the University of Washington introduce Context Language Models (CLMs"
 source_url: "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-10-11T14:00:00.000Z　|　采集：2026-10-12 08:51:19
+> 来源：InfoQ (EN)　|　原发布：2026-10-11T14:00:00.000Z　|　采集：2026-10-13 10:46:35
 
 ## 正文
 
