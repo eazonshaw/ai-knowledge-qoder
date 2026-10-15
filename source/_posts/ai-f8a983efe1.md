@@ -1,6 +1,6 @@
 ---
 title: "修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程"
-date: 2026-10-14 08:45:07
+date: 2026-10-15 08:11:45
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Anil Madhavapeddy 最近发表文章指出，AI 智能体可以利用公开渠道中有关软件漏洞的蛛丝马迹，生成可实际运行的漏洞利用程序(https://anil.recoil.org/notes/r"
 source_url: "https://www.infoq.cn/article/R7OkT6DCUifdCQqAvwtJ?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-13　|　采集：2026-10-14 08:45:07
+> 来源：InfoQ 中文　|　原发布：2026-10-13　|　采集：2026-10-15 08:11:45
 
 ## 正文
 
