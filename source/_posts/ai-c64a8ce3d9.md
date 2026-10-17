@@ -1,6 +1,6 @@
 ---
 title: "GOTC 系列活动 || 在 AI Native 时代，招募 200 位少年一起来创造！"
-date: 2026-10-17 08:04:02
+date: 2026-10-18 07:38:58
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "Technology Anchors the Future Sailing Toward the Stars and the Sea 在AI Native时代招募200位少年 一起来创造！ GOTC少"
 source_url: "https://www.oschina.net/news/503065"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-10-16T11:50:05.000Z　|　采集：2026-10-17 08:04:02
+> 来源：OSChina 资讯　|　原发布：2026-10-16T11:50:05.000Z　|　采集：2026-10-18 07:38:58
 
 ## 正文
 

@@ -1,6 +1,6 @@
 ---
 title: "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”"
-date: 2026-10-17 08:04:02
+date: 2026-10-18 07:38:58
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "10 月 16 日，北京\-范式智能联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域” (ModelSphere)正式上线。该平台面向企业用户免费开源，将算力管理、模型部署和运行优"
 source_url: "https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-16　|　采集：2026-10-17 08:04:02
+> 来源：InfoQ 中文　|　原发布：2026-10-16　|　采集：2026-10-18 07:38:58
 
 ## 正文
 

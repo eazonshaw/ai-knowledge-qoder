@@ -1,6 +1,6 @@
 ---
 title: "Linus用Claude Code改Linux内核，大神也没兜住代码里的Bug"
-date: 2026-10-17 08:04:02
+date: 2026-10-18 07:38:58
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Linus Torvalds 使用 Claude Code 编写 Linux 页面缓存修复补丁，在一项基准测试中将读取吞吐量提升了 23 倍。不过，补丁尚未合入，人类内核审查者就凭借专业直觉，揪出了连"
 source_url: "https://www.infoq.cn/article/hRw4BZQQUW14sqYMo5F6?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-16　|　采集：2026-10-17 08:04:02
+> 来源：InfoQ 中文　|　原发布：2026-10-16　|　采集：2026-10-18 07:38:58
 
 ## 正文
 

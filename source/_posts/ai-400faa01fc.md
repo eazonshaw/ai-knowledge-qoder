@@ -1,6 +1,6 @@
 ---
 title: "Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心"
-date: 2026-10-17 08:04:02
+date: 2026-10-18 07:38:58
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Pi 迎来了今年规模最大的一次更新：项目升级到 1.0，Code Mode 与原生 MCP 正式进入稳定版；同一天，团队还推出了一套全新的 Harness——Pi Durable。 这些变化已经酝酿了"
 source_url: "https://www.infoq.cn/article/hQOHf1ZXoBs7uMpWJQss?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-16　|　采集：2026-10-17 08:04:02
+> 来源：InfoQ 中文　|　原发布：2026-10-16　|　采集：2026-10-18 07:38:58
 
 ## 正文
 

@@ -1,30 +1,30 @@
 ---
 title: "Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments"
-date: 2026-10-17 08:04:02
+date: 2026-10-18 07:38:58
 categories:
   - AI 新闻
   - InfoQ (EN)
 tags:
   - AI
   - InfoQ (EN)
-excerpt: "Google researchers open sourced EnvHarness(https://envharness.com/), a framework that dynamically ad"
+excerpt: "Google researchers open-sourced EnvHarness(https://envharness.com/), a framework that dynamically ad"
 source_url: "https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-10-16T19:00:00.000Z　|　采集：2026-10-17 08:04:02
+> 来源：InfoQ (EN)　|　原发布：2026-10-16T19:00:00.000Z　|　采集：2026-10-18 07:38:58
 
 ## 正文
 
-[Google researchers open sourced EnvHarness](https://envharness.com/), a framework that dynamically adapts agent-training environments to an agent's weaknesses without modifying the agent, environment, or evaluation system. According to the researchers, this approach can improve both learning effectiveness and efficiency while helping agents overcome their weaknesses.
+[Google researchers open-sourced EnvHarness](https://envharness.com/), a framework that dynamically adapts agent-training environments to an agent's weaknesses without modifying the agent, environment, or evaluation system. The researchers say this approach can improve both learning effectiveness and efficiency while helping agents overcome their weaknesses.
 
 According to the research authors, self-evolving agents typically improve by rewriting their prompts and acquiring new skills, but rarely adapt the environments in which they operate. This has important consequences:
 
 > An agent that keeps improving against a frozen benchmark eventually stops learning from it. The start states, the rules and the feedback are the same for every learner at every stage, so once the agent can solve the tasks, the environment has nothing further to teach.
 
-Environment generation, the researchers explain, is expensive, requiring domain-specific pipelines and often relying on expensive or unreliable verifiers Despite these efforts, the resulting environments remain static. To make it easier for engineers to train agent in adaptive environments, they created [EnvHarness](https://github.com/google-research/envharness).
+Environment generation, the researchers explain, is expensive, requiring domain-specific pipelines and often relying on expensive or unreliable verifiers. Despite these efforts, the resulting environments remain static. To make it easier for engineers to train agents in adaptive environments, they created [EnvHarness](https://github.com/google-research/envharness).
 
 EnvHarness acts as a programmable layer of plug-in components that wraps a static environment, changing only the interface the agent interacts through. By dynamically introducing mutations, it can reshape the environment's behavior without altering its underlying structure or evaluation system.
 
-EnvHarness wraps an existing environment using its standard `reset()` and `step()` interface and provides three kinds of composable components: **setup**, which customizes the environment's initial state; **rule**, which constrains state transitions in response to agent's actions; and **link**, which customizes the observation presented to the agent.
+EnvHarness wraps an existing environment using its standard `reset()` and `step()` interface and provides three kinds of composable components: **setup**, which customizes the environment's initial state; **rule**, which constrains state transitions in response to the agent's actions; and **link**, which customizes the observation presented to the agent.
 
 The framework also introduces EnvRigger, which automatically determines how to adapt an environment to a particular agent by analyzing agent behavior, identifying recurring weaknesses, generating targeted modifications, and validating them through fresh interactions.
 
