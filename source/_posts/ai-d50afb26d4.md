@@ -1,6 +1,6 @@
 ---
 title: "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe"
-date: 2026-10-18 07:38:58
+date: 2026-10-19 07:48:42
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "OpenJDK JEP 544（提前代码编译(https://openjdk.org/jeps/544)）已经从 Proposed to Target 状态提升(https://mail.openjd"
 source_url: "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-17　|　采集：2026-10-18 07:38:58
+> 来源：InfoQ 中文　|　原发布：2026-10-17　|　采集：2026-10-19 07:48:42
 
 ## 正文
 
