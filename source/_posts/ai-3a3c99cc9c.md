@@ -1,6 +1,6 @@
 ---
 title: "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想"
-date: 2026-10-19 07:48:42
+date: 2026-10-20 08:49:33
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "曾以共同第一作者身份参与 Kimi 底层架构研究的陈广宇，正在开启下一段职业旅程。 17 岁 Kimi 架构核心参与者离职，否认去了 Anthropic 10 月 15 日，陈广宇（nathan ch"
 source_url: "https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-18　|　采集：2026-10-19 07:48:42
+> 来源：InfoQ 中文　|　原发布：2026-10-18　|　采集：2026-10-20 08:49:33
 
 ## 正文
 

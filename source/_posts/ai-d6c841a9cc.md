@@ -1,6 +1,6 @@
 ---
 title: "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海"
-date: 2026-10-19 07:48:42
+date: 2026-10-20 08:49:33
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 2026 年 QCon 全球软件开发大会大会 · 上海站(https://qcon.infoq.cn/"
 source_url: "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-18　|　采集：2026-10-19 07:48:42
+> 来源：InfoQ 中文　|　原发布：2026-10-18　|　采集：2026-10-20 08:49:33
 
 ## 正文
 
