@@ -1,6 +1,6 @@
 ---
 title: "DoorDash的Flux在云端智能体上运行130000个工程任务"
-date: 2026-10-20 08:49:33
+date: 2026-10-21 08:14:43
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "DoorDash 已经将工程智能体工作负载从开发者的笔记本迁移到其Flux云平台(https://careersatdoordash.com/blog/delegating-engineering-w"
 source_url: "https://www.infoq.cn/article/4IPptJpXQqX5Lr77uBFZ?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-19　|　采集：2026-10-20 08:49:33
+> 来源：InfoQ 中文　|　原发布：2026-10-19　|　采集：2026-10-21 08:14:43
 
 ## 正文
 
