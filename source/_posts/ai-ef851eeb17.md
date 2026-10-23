@@ -1,6 +1,6 @@
 ---
 title: "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势"
-date: 2026-10-22 08:19:44
+date: 2026-10-23 08:15:26
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "2026 年，智能体将在企业级应用中取得哪些实质性突破？点击下载(https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq)《2026 年 AI 与数据发展"
 source_url: "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-21　|　采集：2026-10-22 08:19:44
+> 来源：InfoQ 中文　|　原发布：2026-10-21　|　采集：2026-10-23 08:15:26
 
 ## 正文
 
