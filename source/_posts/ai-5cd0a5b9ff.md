@@ -1,6 +1,6 @@
 ---
 title: "PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了"
-date: 2026-10-24 08:08:53
+date: 2026-10-25 07:52:04
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "近日，PostgreSQL 19 的发布出现罕见波折。PostgreSQL 团队宣布，原计划于 10 月 29 日正式发布的 PostgreSQL 19，将推迟至 11 月 19 日。在此之前，项目还"
 source_url: "https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-23　|　采集：2026-10-24 08:08:53
+> 来源：InfoQ 中文　|　原发布：2026-10-23　|　采集：2026-10-25 07:52:04
 
 ## 正文
 

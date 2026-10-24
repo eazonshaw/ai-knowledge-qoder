@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Brings On-Demand CPU and Memory Profiling to Production Workers"
-date: 2026-10-24 08:08:53
+date: 2026-10-25 07:52:04
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Cloudflare(https://www.cloudflare.com/) has introduced on-demand CPU and memory profiling for Worker"
 source_url: "https://www.infoq.com/news/2026/10/cloudflare-cpu-memory-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-10-23T12:00:00.000Z　|　采集：2026-10-24 08:08:53
+> 来源：InfoQ (EN)　|　原发布：2026-10-23T12:00:00.000Z　|　采集：2026-10-25 07:52:04
 
 ## 正文
 

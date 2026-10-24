@@ -1,6 +1,6 @@
 ---
 title: "GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制"
-date: 2026-10-24 08:08:53
+date: 2026-10-25 07:52:04
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "GitLab 发布 DevSecOps 平台 19.4 版本(https://about.gitlab.com/press/releases/2026-09-17-gitlab-19-4-brings"
 source_url: "https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-23　|　采集：2026-10-24 08:08:53
+> 来源：InfoQ 中文　|　原发布：2026-10-23　|　采集：2026-10-25 07:52:04
 
 ## 正文
 
