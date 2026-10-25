@@ -1,6 +1,6 @@
 ---
 title: "Anthropic 平台工程团队 200 人的代码，全是 Claude 写的"
-date: 2026-10-24 08:08:53
+date: 2026-10-26 07:41:08
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "\"我们团队所有代码都是 Claude 写的。真的，全部。\" 这是 Anthropic 平台工程团队负责人 Katelyn Lesse 在 Grafana 主办的 ObservabilityCON 上说"
 source_url: "https://www.oschina.net/news/503177"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-10-23T07:17:53.000Z　|　采集：2026-10-24 08:08:53
+> 来源：OSChina 资讯　|　原发布：2026-10-23T07:17:53.000Z　|　采集：2026-10-26 07:41:08
 
 ## 正文
 
