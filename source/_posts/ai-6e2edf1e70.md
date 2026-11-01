@@ -1,6 +1,6 @@
 ---
 title: "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享"
-date: 2026-10-31 09:15:33
+date: 2026-11-01 08:34:10
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "极客邦科技创始人兼 CEO 霍太稳，为 1024 模力工场·AI 社区日的主论坛开场致辞，并以《AI 破局的生态法则：从零和博弈到共生智能》为题作主题分享。 !(/ai-knowledge-qoder"
 source_url: "https://www.infoq.cn/article/f3FdeDczctAdHMhvBdKw?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-30　|　采集：2026-10-31 09:15:33
+> 来源：InfoQ 中文　|　原发布：2026-10-30　|　采集：2026-11-01 08:34:10
 
 ## 正文
 

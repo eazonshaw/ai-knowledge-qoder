@@ -1,6 +1,6 @@
 ---
 title: "谷歌推出 EnvHarness，支持自进化智能体动态环境学习"
-date: 2026-10-31 09:15:33
+date: 2026-11-01 08:34:10
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "谷歌研究人员开源 EnvHarness(https://envharness.com/)，这是一个能够根据智能体的短板动态调整智能体训练环境的框架，且无需修改智能体、环境或评估系统。研究人员表示，这种"
 source_url: "https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-30　|　采集：2026-10-31 09:15:33
+> 来源：InfoQ 中文　|　原发布：2026-10-30　|　采集：2026-11-01 08:34:10
 
 ## 正文
 

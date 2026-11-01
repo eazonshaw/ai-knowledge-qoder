@@ -1,6 +1,6 @@
 ---
 title: "Netflix Treats GPU Reliability as a Distributed Systems Problem"
-date: 2026-10-31 09:15:33
+date: 2026-11-01 08:34:10
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Netflix has detailed(https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-j"
 source_url: "https://www.infoq.com/news/2026/10/netflix-gpu-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-10-30T12:00:00.000Z　|　采集：2026-10-31 09:15:33
+> 来源：InfoQ (EN)　|　原发布：2026-10-30T12:00:00.000Z　|　采集：2026-11-01 08:34:10
 
 ## 正文
 
