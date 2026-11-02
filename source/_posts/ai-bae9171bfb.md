@@ -1,6 +1,6 @@
 ---
 title: "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行"
-date: 2026-11-01 08:34:10
+date: 2026-11-02 09:08:03
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "我花了一年时间，看着学生一个接一个地消失。当时我经营着一家编程培训机构，学生们会进入直播课堂，积极参与，然后突然在上课途中掉线。后来我逐个跟进才发现，几乎没有人是主动退出的。他们的网络连接根本撑不到一"
 source_url: "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-10-31　|　采集：2026-11-01 08:34:10
+> 来源：InfoQ 中文　|　原发布：2026-10-31　|　采集：2026-11-02 09:08:03
 
 ## 正文
 
