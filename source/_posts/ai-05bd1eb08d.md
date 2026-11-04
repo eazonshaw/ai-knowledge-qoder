@@ -1,6 +1,6 @@
 ---
 title: "谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕"
-date: 2026-11-03 11:11:34
+date: 2026-11-04 09:45:41
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "!(/ai-knowledge-qoder/imgs/a36e348850305e6d.png) 翻译｜林绮蓓 编辑｜蔡芳芳 谷歌有多少代码是 AI 写的？去年，CEO 桑达尔·皮查伊（Sundar "
 source_url: "https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-03　|　采集：2026-11-03 11:11:34
+> 来源：InfoQ 中文　|　原发布：2026-11-03　|　采集：2026-11-04 09:45:41
 
 ## 正文
 
