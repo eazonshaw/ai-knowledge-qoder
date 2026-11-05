@@ -1,6 +1,6 @@
 ---
 title: "AI 改变的是数据接口，而不是查询引擎"
-date: 2026-11-04 09:45:41
+date: 2026-11-05 09:54:04
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "AI 智能体如今可以生成分析代码、从对象存储读取文件，并将运维数据转为结构化报告。这是否意味着数据湖、湖仓一体和 SQL 引擎已经过时？我们在对一场大型容灾演练做自动化分析时遇到了这个问题。我们最初的"
 source_url: "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-03　|　采集：2026-11-04 09:45:41
+> 来源：InfoQ 中文　|　原发布：2026-11-03　|　采集：2026-11-05 09:54:04
 
 ## 正文
 
