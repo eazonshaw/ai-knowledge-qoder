@@ -1,6 +1,6 @@
 ---
 title: "智能体 Harness 的演进：从链、图到代码化"
-date: 2026-11-07 09:27:48
+date: 2026-11-08 08:58:17
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "在过去几年里，基于大语言模型构建的智能体经历了翻天覆地的变化。最初只是用粘合代码拼凑起来的临时提示词，如今已逐渐演变为我们所说的智能体 Harness 框架，也叫结构化执行框架——它们围绕概率模型搭建"
 source_url: "https://www.infoq.cn/article/B7tsA5tjD08k2gd0OtXd?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-06　|　采集：2026-11-07 09:27:48
+> 来源：InfoQ 中文　|　原发布：2026-11-06　|　采集：2026-11-08 08:58:17
 
 ## 正文
 

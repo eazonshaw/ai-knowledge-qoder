@@ -1,6 +1,6 @@
 ---
 title: "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代"
-date: 2026-11-07 09:27:48
+date: 2026-11-08 08:58:17
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "DigitalOcean 发布 Learning Services 和 Agent Data Services 公开预览版(https://investors.digitalocean.com/new"
 source_url: "https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-06　|　采集：2026-11-07 09:27:48
+> 来源：InfoQ 中文　|　原发布：2026-11-06　|　采集：2026-11-08 08:58:17
 
 ## 正文
 

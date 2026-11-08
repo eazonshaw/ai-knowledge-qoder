@@ -1,6 +1,6 @@
 ---
 title: "AWS Ships Continuum for Code Vulnerabilities"
-date: 2026-11-07 09:27:48
+date: 2026-11-08 08:58:17
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "AWS recently made Continuum for code vulnerabilities(https://aws.amazon.com/blogs/aws/aws-continuum-"
 source_url: "https://www.infoq.com/news/2026/11/aws-continuum-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-11-06T10:00:00.000Z　|　采集：2026-11-07 09:27:48
+> 来源：InfoQ (EN)　|　原发布：2026-11-06T10:00:00.000Z　|　采集：2026-11-08 08:58:17
 
 ## 正文
 

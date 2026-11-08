@@ -1,6 +1,6 @@
 ---
 title: "Yelp Combines Native and Server-Driven UI for Its AI Assistant"
-date: 2026-11-07 09:27:48
+date: 2026-11-08 08:58:17
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Yelp has adopted a hybrid user interface architecture for its AI Assistant,(https://engineeringblog."
 source_url: "https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-11-06T14:25:00.000Z　|　采集：2026-11-07 09:27:48
+> 来源：InfoQ (EN)　|　原发布：2026-11-06T14:25:00.000Z　|　采集：2026-11-08 08:58:17
 
 ## 正文
 

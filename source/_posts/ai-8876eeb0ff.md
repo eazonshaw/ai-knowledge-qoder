@@ -1,6 +1,6 @@
 ---
 title: "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge"
-date: 2026-11-07 09:27:48
+date: 2026-11-08 08:58:17
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "导 读 单机 Coding Agent 已经能飞快写出代码，但一旦走进真实研发团队，合盖断流、多人上下文割裂、自由 Vibe Coding 质量失控、日常盯单耗时以及同类问题反复踩坑，很快就会把团队卡"
 source_url: "https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-05　|　采集：2026-11-07 09:27:48
+> 来源：InfoQ 中文　|　原发布：2026-11-05　|　采集：2026-11-08 08:58:17
 
 ## 正文
 
