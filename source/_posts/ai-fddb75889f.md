@@ -1,6 +1,6 @@
 ---
 title: "上下文也是成本：Agent 效率优化的新思路 ｜ 技术趋势"
-date: 2026-11-12 10:36:32
+date: 2026-11-13 10:17:14
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "2026 年，智能体将在企业级应用中取得哪些实质性突破？点击下载(https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq)《2026 年 AI 与数据发展"
 source_url: "https://www.infoq.cn/article/iaCUbU8Fwz6G6bDlQ9BV?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-11　|　采集：2026-11-12 10:36:32
+> 来源：InfoQ 中文　|　原发布：2026-11-11　|　采集：2026-11-13 10:17:14
 
 ## 正文
 

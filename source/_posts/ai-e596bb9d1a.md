@@ -1,6 +1,6 @@
 ---
 title: "InfoQ 2026 年趋势报告：AI、ML与数据工程"
-date: 2026-11-12 10:36:32
+date: 2026-11-13 10:17:14
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "InfoQ 人工智能与机器学习年度趋势报告为 InfoQ 读者提供 AI、ML 和数据工程领域新兴趋势和技术的全面概述。本报告总结了 InfoQ 编辑团队与外部嘉宾的播客内容，讨论 2026 年 AI"
 source_url: "https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-12　|　采集：2026-11-12 10:36:32
+> 来源：InfoQ 中文　|　原发布：2026-11-12　|　采集：2026-11-13 10:17:14
 
 ## 正文
 
