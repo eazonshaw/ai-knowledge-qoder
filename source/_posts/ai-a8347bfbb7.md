@@ -1,6 +1,6 @@
 ---
 title: "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%"
-date: 2026-11-13 10:17:14
+date: 2026-11-14 09:54:45
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "当整个 AI 行业还在比拼谁能生成更多 Token、谁的推理能力更强时，谷歌却推出了一款不靠逐字生成答案的新模型。 刚刚，谷歌正式发布 Gemini Decision 1，同时推出由该模型驱动的 Ge"
 source_url: "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-12　|　采集：2026-11-13 10:17:14
+> 来源：InfoQ 中文　|　原发布：2026-11-12　|　采集：2026-11-14 09:54:45
 
 ## 正文
 

@@ -1,6 +1,6 @@
 ---
 title: "Technical Debt is Social; it is the Price of Learning by Doing"
-date: 2026-11-13 10:17:14
+date: 2026-11-14 09:54:45
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Technical debt is not necessarily a sign of poor engineering. It can be the price of learning throug"
 source_url: "https://www.infoq.com/news/2026/11/tech-debt-learning-doing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-11-12T11:05:00.000Z　|　采集：2026-11-13 10:17:14
+> 来源：InfoQ (EN)　|　原发布：2026-11-12T11:05:00.000Z　|　采集：2026-11-14 09:54:45
 
 ## 正文
 

@@ -1,6 +1,6 @@
 ---
 title: "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型"
-date: 2026-11-13 10:17:14
+date: 2026-11-14 09:54:45
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "谷歌推出 LiteRT Tensor API(https://developers.googleblog.com/native-model-authoring-for-edge-with-litert"
 source_url: "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-13　|　采集：2026-11-13 10:17:14
+> 来源：InfoQ 中文　|　原发布：2026-11-13　|　采集：2026-11-14 09:54:45
 
 ## 正文
 

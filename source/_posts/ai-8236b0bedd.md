@@ -1,6 +1,6 @@
 ---
 title: "全球化筑基，AI 赋能新体验，openKylin 3.0 SP1 正式发布"
-date: 2026-11-13 10:17:14
+date: 2026-11-14 09:54:45
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "OpenAtom openKylin（以下简称“openKylin”）社区今日正式发布 openKylin 3.0 SP1 版本。本次版本更新以国际化为底座，围绕国际化体验、AI 融合、硬件生态、系统"
 source_url: "https://www.oschina.net/news/503545"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-11-12T07:13:17.000Z　|　采集：2026-11-13 10:17:14
+> 来源：OSChina 资讯　|　原发布：2026-11-12T07:13:17.000Z　|　采集：2026-11-14 09:54:45
 
 ## 正文
 
