@@ -1,6 +1,6 @@
 ---
 title: "Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability"
-date: 2026-11-14 09:54:45
+date: 2026-11-15 09:26:21
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Netflix is developing an ontology-driven knowledge graph(https://netflixtechblog.com/ontology-driven"
 source_url: "https://www.infoq.com/news/2026/11/netflix-ai-driven-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-11-13T12:00:00.000Z　|　采集：2026-11-14 09:54:45
+> 来源：InfoQ (EN)　|　原发布：2026-11-13T12:00:00.000Z　|　采集：2026-11-15 09:26:21
 
 ## 正文
 

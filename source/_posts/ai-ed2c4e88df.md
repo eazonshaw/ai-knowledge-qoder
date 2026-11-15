@@ -1,6 +1,6 @@
 ---
 title: "Docker 呼吁通过隔离与治理保障智能体安全"
-date: 2026-11-14 09:54:45
+date: 2026-11-15 09:26:21
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Docker 发布了一篇指南，介绍当 AI 智能体在人工监督有限的情况下浏览网页、运行代码、调用工具时会产生的五大安全风险。Docker 首席产品营销经理 Srini Sekaran 与产品经理 Er"
 source_url: "https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-13　|　采集：2026-11-14 09:54:45
+> 来源：InfoQ 中文　|　原发布：2026-11-13　|　采集：2026-11-15 09:26:21
 
 ## 正文
 

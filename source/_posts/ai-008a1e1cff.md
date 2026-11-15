@@ -1,6 +1,6 @@
 ---
 title: "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体"
-date: 2026-11-14 09:54:45
+date: 2026-11-15 09:26:21
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Edera 推出了对象能力受限权限模型(https://edera.dev/stories/ocap-bounded-authority)，承诺保护自主 AI 智能体工作负载的安全，使自主 AI 工作"
 source_url: "https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-13　|　采集：2026-11-14 09:54:45
+> 来源：InfoQ 中文　|　原发布：2026-11-13　|　采集：2026-11-15 09:26:21
 
 ## 正文
 

@@ -1,6 +1,6 @@
 ---
 title: "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures"
-date: 2026-11-14 09:54:45
+date: 2026-11-15 09:26:21
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Google has open-sourced AQuA (Ambient Quality Agent),(https://developers.googleblog.com/the-outer-lo"
 source_url: "https://www.infoq.com/news/2026/11/google-ambient-agent-prod/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-11-13T13:53:00.000Z　|　采集：2026-11-14 09:54:45
+> 来源：InfoQ (EN)　|　原发布：2026-11-13T13:53:00.000Z　|　采集：2026-11-15 09:26:21
 
 ## 正文
 

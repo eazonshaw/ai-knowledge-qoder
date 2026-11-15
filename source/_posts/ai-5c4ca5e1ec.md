@@ -1,6 +1,6 @@
 ---
 title: "黄仁勋辞任英伟达 CEO，CFO 接任临时掌门"
-date: 2026-11-14 09:54:45
+date: 2026-11-15 09:26:21
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "英伟达 11 月 12 日宣布，联合创始人黄仁勋辞去 CEO 职务。CFO 科莱特·克雷斯（Colette Kress）出任临时 CEO。 一家 4 万亿美元的公司，在 AI 投资周期最关键的节点上，"
 source_url: "https://www.oschina.net/news/503568/nvidia-announces-ceo-transition"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-11-13T08:39:45.000Z　|　采集：2026-11-14 09:54:45
+> 来源：OSChina 资讯　|　原发布：2026-11-13T08:39:45.000Z　|　采集：2026-11-15 09:26:21
 
 ## 正文
 
