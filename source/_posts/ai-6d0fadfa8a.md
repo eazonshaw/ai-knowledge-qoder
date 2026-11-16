@@ -1,6 +1,6 @@
 ---
 title: "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突"
-date: 2026-11-15 09:26:21
+date: 2026-11-16 09:28:46
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "Inkitt 构建了一个一次性拉取请求（PR）创建器(https://medium.com/inkitt-tech/how-we-built-a-one-shot-pr-creator-at-inki"
 source_url: "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-14　|　采集：2026-11-15 09:26:21
+> 来源：InfoQ 中文　|　原发布：2026-11-14　|　采集：2026-11-16 09:28:46
 
 ## 正文
 

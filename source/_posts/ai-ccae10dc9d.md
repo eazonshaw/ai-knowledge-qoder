@@ -1,6 +1,6 @@
 ---
 title: "phimint v0.10.0 发布：卡在「等你输入」的命令上，agent 能自己接上"
-date: 2026-11-15 09:26:21
+date: 2026-11-16 09:28:46
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "phimint v0.10.0 已发布（2026-11-14）。phimint 是一个用 Rust 写的终端轻量AI 编码 agent——一条命令装上，配好 API key 就能在终端里把需求变成跑通"
 source_url: "https://www.oschina.net/news/503576"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-11-14T04:24:27.000Z　|　采集：2026-11-15 09:26:21
+> 来源：OSChina 资讯　|　原发布：2026-11-14T04:24:27.000Z　|　采集：2026-11-16 09:28:46
 
 ## 正文
 
