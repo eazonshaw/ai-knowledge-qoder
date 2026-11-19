@@ -1,6 +1,6 @@
 ---
 title: "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak"
-date: 2026-11-18 11:14:20
+date: 2026-11-19 10:52:49
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "根据谷歌发表的一篇论文，其人工智能驱动的安全代理自今年 1 月全面投入运行以来，已在旗下各类 Web 应用中发现了 500 多个 XSS 漏洞(https://blog.google/security"
 source_url: "https://www.infoq.cn/article/uGTol3TSzOV72NSrcBrB?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-18　|　采集：2026-11-18 11:14:20
+> 来源：InfoQ 中文　|　原发布：2026-11-18　|　采集：2026-11-19 10:52:49
 
 ## 正文
 
