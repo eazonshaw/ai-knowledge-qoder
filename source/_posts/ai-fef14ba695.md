@@ -1,6 +1,6 @@
 ---
 title: "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale"
-date: 2026-11-21 10:55:31
+date: 2026-11-22 09:48:30
 categories:
   - AI 新闻
   - InfoQ (EN)
@@ -10,7 +10,7 @@ tags:
 excerpt: "Google has announced(https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-sca"
 source_url: "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
 ---
-> 来源：InfoQ (EN)　|　原发布：2026-11-20T12:00:00.000Z　|　采集：2026-11-21 10:55:31
+> 来源：InfoQ (EN)　|　原发布：2026-11-20T12:00:00.000Z　|　采集：2026-11-22 09:48:30
 
 ## 正文
 

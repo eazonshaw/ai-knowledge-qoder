@@ -1,6 +1,6 @@
 ---
 title: "哈佛大学研究人员：AI 编程目前的瓶颈是“Code Review”"
-date: 2026-11-21 10:55:31
+date: 2026-11-22 09:48:30
 categories:
   - AI 新闻
   - OSChina 资讯
@@ -10,7 +10,7 @@ tags:
 excerpt: "哈佛大学两位博士候选人做了一份工作论文，把 AI 编程 Agent 的真实效果算了一遍。样本是 718 家公司、725938 名员工。 结论不太好看。 用上 AI 编程 Agent 之后，人均每月新增"
 source_url: "https://www.oschina.net/news/503706/harvard-researchers-find-ai-coding-agents-shifted"
 ---
-> 来源：OSChina 资讯　|　原发布：2026-11-20T09:00:13.000Z　|　采集：2026-11-21 10:55:31
+> 来源：OSChina 资讯　|　原发布：2026-11-20T09:00:13.000Z　|　采集：2026-11-22 09:48:30
 
 ## 正文
 
