@@ -1,6 +1,6 @@
 ---
 title: "淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战"
-date: 2026-11-27 11:52:25
+date: 2026-11-28 11:38:40
 categories:
   - AI 新闻
   - InfoQ 中文
@@ -10,7 +10,7 @@ tags:
 excerpt: "AI 正在从回答问题的辅助工具，走向能够理解目标、调用系统并完成任务的工作承担者。当 Agent 真正进入企业流程，挑战不再只是「如何把 AI 做出来」，而是哪些工作可以交给 AI、如何验收结果，以及"
 source_url: "https://www.infoq.cn/article/Y6xTPR1bRWqmNNakCtXm?utm_source=rss&utm_medium=article"
 ---
-> 来源：InfoQ 中文　|　原发布：2026-11-27　|　采集：2026-11-27 11:52:25
+> 来源：InfoQ 中文　|　原发布：2026-11-27　|　采集：2026-11-28 11:38:40
 
 ## 正文
 
